@@ -50,7 +50,17 @@ pip install -r requirements.txt
 
 ### Analyse starten
 ```bash
-python sentiment_analysis.py
+python main.py
+```
+
+### Tests ausführen
+```bash
+python run_tests.py
+```
+
+### Entwicklungsumgebung einrichten
+```bash
+pip install -r requirements-dev.txt
 ```
 
 ### Datenformat

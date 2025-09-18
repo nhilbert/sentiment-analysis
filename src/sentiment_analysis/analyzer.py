@@ -675,8 +675,7 @@ class GermanFeedbackAnalyzer:
         from transformers import pipeline
         
         classifier = pipeline("sentiment-analysis", 
-                            model="oliverguhr/german-sentiment-bert",
-                            return_all_scores=True)
+                            model="oliverguhr/german-sentiment-bert")
         
         scores = []
         categories = []
@@ -684,19 +683,27 @@ class GermanFeedbackAnalyzer:
         for text in texts:
             try:
                 result = classifier(text or "")
-                pos_score = next(r['score'] for r in result if r['label'] == 'POSITIVE')
-                neg_score = next(r['score'] for r in result if r['label'] == 'NEGATIVE')
+                label = result[0]['label'].upper()
+                confidence = result[0]['score']
                 
-                compound_score = pos_score - neg_score
+                # Convert to compound score
+                if label == 'POSITIVE':
+                    compound_score = confidence
+                elif label == 'NEGATIVE':
+                    compound_score = -confidence
+                else:  # NEUTRAL
+                    compound_score = 0.0
+                
                 scores.append(compound_score)
                 
-                if compound_score >= 0.1:
+                if compound_score >= 0.3:
                     categories.append("positive")
-                elif compound_score <= -0.1:
+                elif compound_score <= -0.3:
                     categories.append("negative")
                 else:
                     categories.append("neutral")
-            except Exception:
+            except Exception as e:
+                logger.warning(f"BERT sentiment failed for text: {e}")
                 scores.append(0.0)
                 categories.append("neutral")
         

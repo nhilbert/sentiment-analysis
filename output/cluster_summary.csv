@@ -1,44 +1,44 @@
 cluster_id,message_count,avg_sentiment,sentiment_std,peak_month,cluster_label,keywords,percentage
-2,29,-0.22875172413793105,0.24128447883994536,2024-10,Anmelde-Probleme,"login, timeouts, timeouts during, frequent, frequent timeouts",5.8
-26,21,0.0,0.0,2024-01,Versand & Lieferung,"zwei faktor, zwei, angekommen, faktor, code angekommen",4.2
-23,21,0.2505380952380952,0.37926418823320307,2025-07,Cancel & Flow,"cancel, flow, cancellation, cancellation flow, to",4.2
-7,18,-0.5994,0.0,2025-04,Unterstützung Face & Praktisch,"unterstützung face, praktisch, id praktisch, id, face id",3.6
-9,18,0.3892166666666667,0.31948899134122805,2024-10,Benutzeroberfläche,"new dashboard, love new, love, layout, dashboard",3.6
-1,17,-0.2877882352941177,0.1410314232819806,2024-09,Abrechnung & Zahlung,"unclear, prorated, prorated billing, billing, billing unclear",3.4
-11,17,-0.3146764705882353,0.12334508264120099,2024-04,Updates & Updates Confusing,"updates, updates confusing, tracking, tracking updates, confusing",3.4
-25,16,0.08323124999999999,0.16814563813848993,2024-02,Benutzeroberfläche,"my, agent, resolved, agent resolved, issue",3.2
-5,15,0.37134,0.21429731282896264,2024-02,System-Performance,"sso works, sso, flawlessly, works, works flawlessly",3.0
-6,15,0.5709,0.02794765515336533,2024-08,Mode & Mode Looks,"mode, mode looks, looks fantastic, looks, fantastic",3.0
-32,15,-0.03996,0.1547644145144484,2024-03,Pro Projekt,"pro projekt, pro, projekt erhalten, projekt, benachrichtigungen pro",3.0
-3,14,-0.21275714285714287,0.27086752854851026,2024-06,Week Stable & Week,"week stable, week, stable, stable release, release",2.8
-29,14,-0.042814285714285714,0.16019638840230718,2025-08,Kundensupport,"synchronisation, synchronisation wäre, kalender, kalender synchronisation, wäre",2.8
-27,14,0.42602857142857137,0.12261945778942031,2025-02,Datei-Download,"funktionswunsch, excel, export excel, funktionswunsch export, export",2.8
-39,14,0.1650642857142857,0.1978602366362636,2024-04,Benutzeroberfläche,"refund, processed quickly, processed, refund processed, quickly appreciated",2.8
-13,13,0.3833461538461538,0.005574736972063556,2024-04,Support Rückruf,"promised, support promised, never, promised callback, callback",2.6
-14,13,0.26833076923076926,0.35045060371045966,2024-01,Versand & Lieferung,"took, shipping took, shipping, days too, days",2.6
-31,13,0.3972615384615385,0.2866932057631803,2024-07,Benutzeroberfläche,"walkthrough, sample, sample data, loved sample, data",2.6
-10,13,0.43827692307692306,0.06625893843910365,2025-07,Versand & Lieferung,"thank, time delivery, thank you, delivery, delivery thank",2.6
-41,12,-0.20744166666666666,0.06532718295880616,2024-07,Navigation & Navigation Confusing,"navigation, navigation confusing, confusing too, steps, many steps",2.4
-8,11,0.09449999999999999,0.41304606280655914,2024-10,Prices & Prices Feel,"prices, prices feel, to competitors, feel, competitors",2.2
-0,11,0.2245,0.2579308628295575,2025-07,Abrechnung & Zahlung,"submit, froze, payment, froze on, on submit",2.2
-4,11,-0.4215,0.0,2024-01,Datei-Download,"to download, pdf, pdf fails, invoice, fails",2.2
-38,11,-0.18515454545454546,0.091542857325259,2025-01,System-Performance,"run experience, run, first run, first, experience",2.2
-22,10,-0.21184000000000003,0.02011208591867089,2024-01,Twice & Twice Month,"twice, twice month, month, charged twice, charged",2.0
+2,29,-0.7627808821612391,0.39652436210677017,2024-10,Anmelde-Probleme,"login, timeouts, timeouts during, frequent, frequent timeouts",5.8
+26,21,0.010230626378740584,0.6880241028330736,2024-01,Versand & Lieferung,"zwei faktor, zwei, angekommen, faktor, code angekommen",4.2
+23,21,0.4273824862071446,0.897929161019054,2025-07,Cancel & Flow,"cancel, flow, cancellation, cancellation flow, to",4.2
+7,18,0.0,0.0,2025-04,Unterstützung Face & Praktisch,"unterstützung face, praktisch, id praktisch, id, face id",3.6
+9,18,0.9053025411234962,0.05190356784234199,2024-10,Benutzeroberfläche,"new dashboard, love new, love, layout, dashboard",3.6
+1,17,-0.6351651233785293,0.48391498776157754,2024-09,Abrechnung & Zahlung,"unclear, prorated, prorated billing, billing, billing unclear",3.4
+11,17,-0.9820107221603394,0.017774136654509866,2024-04,Updates & Updates Confusing,"updates, updates confusing, tracking, tracking updates, confusing",3.4
+25,16,0.6058039255440235,0.4225603067703918,2024-02,Benutzeroberfläche,"my, agent, resolved, agent resolved, issue",3.2
+5,15,0.1917429804801941,0.9807523078080778,2024-02,System-Performance,"sso works, sso, flawlessly, works, works flawlessly",3.0
+6,15,0.6021292090415955,0.8129807313156712,2024-08,Mode & Mode Looks,"mode, mode looks, looks fantastic, looks, fantastic",3.0
+32,15,-0.06416748364766439,0.2485195955354409,2024-03,Pro Projekt,"pro projekt, pro, projekt erhalten, projekt, benachrichtigungen pro",3.0
+3,14,-0.6831686837332589,0.21829849417515204,2024-06,Week Stable & Week,"week stable, week, stable, stable release, release",2.8
+29,14,0.9538838948522296,0.012784885518353384,2025-08,Kundensupport,"synchronisation, synchronisation wäre, kalender, kalender synchronisation, wäre",2.8
+27,14,0.06839630859238761,0.2559155532727771,2025-02,Datei-Download,"funktionswunsch, excel, export excel, funktionswunsch export, export",2.8
+39,14,-0.862255586045129,0.24860364104310362,2024-04,Benutzeroberfläche,"refund, processed quickly, processed, refund processed, quickly appreciated",2.8
+13,13,-0.9897619119057288,0.0007845450017588462,2024-04,Support Rückruf,"promised, support promised, never, promised callback, callback",2.6
+14,13,-0.19592587305949286,0.9188140211855473,2024-01,Versand & Lieferung,"took, shipping took, shipping, days too, days",2.6
+31,13,-0.07431650620240432,0.749779252013149,2024-07,Benutzeroberfläche,"walkthrough, sample, sample data, loved sample, data",2.6
+10,13,0.9853839094822223,0.0003975129401216353,2025-07,Versand & Lieferung,"thank, time delivery, thank you, delivery, delivery thank",2.6
+41,12,-0.985957607626915,0.004305500561252616,2024-07,Navigation & Navigation Confusing,"navigation, navigation confusing, confusing too, steps, many steps",2.4
+8,11,-0.04412402348084883,0.9696191790536675,2024-10,Prices & Prices Feel,"prices, prices feel, to competitors, feel, competitors",2.2
+0,11,-0.4509506984190507,0.5181029075136628,2025-07,Abrechnung & Zahlung,"submit, froze, payment, froze on, on submit",2.2
+4,11,-0.9487853646278381,0.0,2024-01,Datei-Download,"to download, pdf, pdf fails, invoice, fails",2.2
+38,11,0.6104560873725198,0.7806696996139039,2025-01,System-Performance,"run experience, run, first run, first, experience",2.2
+22,10,-0.6430738210678101,0.6266014951537471,2024-01,Twice & Twice Month,"twice, twice month, month, charged twice, charged",2.0
 36,10,0.0,0.0,2024-08,Waited & Waited Minutes,"waited, waited minutes, minutes chat, got disconnected, disconnected",2.0
-17,9,0.0,0.0,2025-04,Scrolling Janky & Scrolling,"scrolling janky, scrolling, older, older devices, janky",1.8
-18,9,0.17302222222222222,0.3606024049343604,2024-07,Benutzeroberfläche,"pages load, load, pages, feels, load quickly",1.8
+17,9,-0.9692981110678779,0.00020094712575277057,2025-04,Scrolling Janky & Scrolling,"scrolling janky, scrolling, older, older devices, janky",1.8
+18,9,0.39795265595118207,0.7050216259677349,2024-07,Benutzeroberfläche,"pages load, load, pages, feels, load quickly",1.8
 35,9,0.0,0.0,2025-05,Search Results & Search,"search results, search, results, results irrelevant, irrelevant",1.8
-30,9,0.7579,0.0,2025-04,Value & Value For,"value, value for, money, great value, for money",1.8
-16,9,-0.48958888888888885,0.03866666666666666,2025-05,Parcel At & Parcel,"parcel at, parcel, left, left parcel, courier",1.8
-33,8,-0.14985,0.2774682839018337,2024-06,Kundensupport,"vier, vier minuten, service, schnellen service, minuten chat",1.6
+30,9,0.0,0.0,2025-04,Value & Value For,"value, value for, money, great value, for money",1.8
+16,9,-0.10474703047010633,0.314241091410319,2025-05,Parcel At & Parcel,"parcel at, parcel, left, left parcel, courier",1.8
+33,8,0.12041349709033966,0.8033577672632791,2024-06,Kundensupport,"vier, vier minuten, service, schnellen service, minuten chat",1.6
 19,8,0.0,0.0,2024-06,Take & To Generate,"take, to generate, reports, reports take, generate",1.6
-37,7,0.0,0.0,2024-01,Onboarding,"too, onboarding, emails, many emails, during onboarding",1.4
-15,7,0.12685714285714284,0.15821865521215522,2025-08,System-Performance,"package, package arrived, box, arrived, but box",1.4
-21,6,0.1591,0.17428531779814385,2024-01,Roles & Custom,"roles, custom, custom roles, roles exactly, new custom",1.2
-40,6,-0.39725000000000005,0.1946119600641235,2024-04,Link Broken & Label,"link broken, label, link, label link, return label",1.2
-12,6,0.6882333333333334,0.23053878343278092,2024-06,Kundensupport,"product, product overall, overall, loved product, loved",1.2
-24,5,0.12728,0.17428531779814385,2024-01,Api Access,"api, api access, access, new api, access exactly",1.0
-28,5,0.3182,0.0,2024-01,Datei-Download,"add csv, please add, add, csv export, csv",1.0
-20,5,0.25456,0.1423033660880866,2025-01,Templates & Workspace,"templates, workspace, workspace templates, add workspace, templates please",1.0
-34,5,0.24165999999999999,0.2437079768903759,2024-06,Benutzeroberfläche,"app ui, ui, on mobile, mobile, mobile app",1.0
--1,1,0.0,0.0,2024-07,Rauschen,,0.2
+37,7,-0.9605663929666791,0.0009999109657994054,2024-01,Onboarding,"too, onboarding, emails, many emails, during onboarding",1.4
+15,7,-0.9681210347584316,0.01442156328493748,2025-08,System-Performance,"package, package arrived, box, arrived, but box",1.4
+21,6,0.9657306969165802,0.0005519595908963688,2024-01,Roles & Custom,"roles, custom, custom roles, roles exactly, new custom",1.2
+40,6,-0.16204763452212015,0.39693401860421057,2024-04,Link Broken & Label,"link broken, label, link, label link, return label",1.2
+12,6,-0.4806216259797414,0.8148788957899703,2024-06,Kundensupport,"product, product overall, overall, loved product, loved",1.2
+24,5,0.9644686579704285,0.00780062841715123,2024-01,Api Access,"api, api access, access, new api, access exactly",1.0
+28,5,0.9530337452888489,0.013896309829118129,2024-01,Datei-Download,"add csv, please add, add, csv export, csv",1.0
+20,5,0.9667280673980713,0.014736160657373378,2025-01,Templates & Workspace,"templates, workspace, workspace templates, add workspace, templates please",1.0
+34,5,0.9510114073753357,0.039559209226278313,2024-06,Benutzeroberfläche,"app ui, ui, on mobile, mobile, mobile app",1.0
+-1,1,0.9429233074188232,0.0,2024-07,Rauschen,,0.2

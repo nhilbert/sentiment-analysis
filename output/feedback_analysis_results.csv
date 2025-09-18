@@ -1,501 +1,501 @@
 date,nachricht,year_month,month_name,cluster_id,cluster_label,sentiment_score,sentiment_category
-2024-01-02,Der Kundensupport war ausgezeichnet und kompetent.,2024-01,January 2024,29,Kundensupport,-0.5994,negative
-2024-01-02,Die App-Oberfläche ist auf dem Handy schlecht.,2024-01,January 2024,32,Pro Projekt,-0.5994,negative
-2024-01-02,Eine Kalender-Synchronisation wäre hilfreich.,2024-01,January 2024,29,Kundensupport,0.0,neutral
-2024-01-05,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-01,January 2024,26,Versand & Lieferung,0.0,neutral
+2024-01-02,Der Kundensupport war ausgezeichnet und kompetent.,2024-01,January 2024,29,Kundensupport,0.9983036518096924,positive
+2024-01-02,Die App-Oberfläche ist auf dem Handy schlecht.,2024-01,January 2024,32,Pro Projekt,-0.9625122547149658,negative
+2024-01-02,Eine Kalender-Synchronisation wäre hilfreich.,2024-01,January 2024,29,Kundensupport,0.9504669904708862,positive
+2024-01-05,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-01,January 2024,26,Versand & Lieferung,-0.9514044523239136,negative
 2024-01-05,Der Zwei-Faktor-Code ist nicht angekommen.,2024-01,January 2024,26,Versand & Lieferung,0.0,neutral
-2024-01-09,Cancellation flow is expensive and fair.,2024-01,January 2024,23,Cancel & Flow,0.3182,positive
-2024-01-09,Please add custom roles.,2024-01,January 2024,21,Roles & Custom,0.3182,positive
-2024-01-12,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.4215,negative
-2024-01-14,Exit survey is too long.,2024-01,January 2024,37,Onboarding,0.0,neutral
-2024-01-15,Shipping took 7 days—too fair!,2024-01,January 2024,14,Versand & Lieferung,0.3802,positive
-2024-01-15,Scrolling is janky on older devices.,2024-01,January 2024,17,Scrolling Janky & Scrolling,0.0,neutral
-2024-01-16,Agent resolved my issue quickly.,2024-01,January 2024,25,Benutzeroberfläche,0.1779,positive
-2024-01-17,Login form rejects valid credentials.,2024-01,January 2024,2,Anmelde-Probleme,-0.4939,negative
-2024-01-18,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.4215,negative
+2024-01-09,Cancellation flow is expensive and fair.,2024-01,January 2024,23,Cancel & Flow,0.9902892112731934,positive
+2024-01-09,Please add custom roles.,2024-01,January 2024,21,Roles & Custom,0.9652268290519714,positive
+2024-01-12,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-01-14,Exit survey is too long.,2024-01,January 2024,37,Onboarding,-0.9620301127433777,negative
+2024-01-15,Shipping took 7 days—too fair!,2024-01,January 2024,14,Versand & Lieferung,-0.8057100176811218,negative
+2024-01-15,Scrolling is janky on older devices.,2024-01,January 2024,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2024-01-16,Agent resolved my issue quickly.,2024-01,January 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-01-17,Login form rejects valid credentials.,2024-01,January 2024,2,Anmelde-Probleme,0.0,neutral
+2024-01-18,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.9487853646278381,negative
 2024-01-19,Reports take 8 minutes to generate.,2024-01,January 2024,19,Take & To Generate,0.0,neutral
-2024-01-20,Nicht zufrieden mit der letzten Lieferung.,2024-01,January 2024,26,Versand & Lieferung,0.0,neutral
-2024-01-21,I was charged twice this month.,2024-01,January 2024,22,Twice & Twice Month,-0.2023,negative
+2024-01-20,Nicht zufrieden mit der letzten Lieferung.,2024-01,January 2024,26,Versand & Lieferung,0.994373083114624,positive
+2024-01-21,I was charged twice this month.,2024-01,January 2024,22,Twice & Twice Month,-0.94029700756073,negative
 2024-01-21,Vier Minuten im Chat gewartet und dann getrennt.,2024-01,January 2024,33,Kundensupport,0.0,neutral
-2024-01-22,The new API access is exactly what we needed.,2024-01,January 2024,24,Api Access,0.0,neutral
-2024-01-22,Shipping took 10 days—too excellent!,2024-01,January 2024,14,Versand & Lieferung,0.6114,positive
-2024-01-23,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.4215,negative
-2024-01-25,The app UI is excellent on mobile.,2024-01,January 2024,34,Benutzeroberfläche,0.5719,positive
-2024-01-27,Please add API access.,2024-01,January 2024,24,Api Access,0.3182,positive
-2024-01-28,Support promised a callback but never did.,2024-01,January 2024,13,Support Rückruf,0.3818,positive
-2024-01-28,Great performance after the last update.,2024-01,January 2024,5,System-Performance,0.6249,positive
-2024-01-29,Please add CSV export.,2024-01,January 2024,28,Datei-Download,0.3182,positive
-2024-02-02,Please add workspace templates.,2024-02,February 2024,20,Templates & Workspace,0.3182,positive
-2024-02-02,"On-time delivery, thank you!",2024-02,February 2024,10,Versand & Lieferung,0.4199,positive
-2024-02-04,Login form rejects valid credentials.,2024-02,February 2024,2,Anmelde-Probleme,-0.4939,negative
+2024-01-22,The new API access is exactly what we needed.,2024-01,January 2024,24,Api Access,0.9587718844413757,positive
+2024-01-22,Shipping took 10 days—too excellent!,2024-01,January 2024,14,Versand & Lieferung,0.9933930039405823,positive
+2024-01-23,Invoice PDF fails to download.,2024-01,January 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-01-25,The app UI is excellent on mobile.,2024-01,January 2024,34,Benutzeroberfläche,0.9931740164756775,positive
+2024-01-27,Please add API access.,2024-01,January 2024,24,Api Access,0.9730138182640076,positive
+2024-01-28,Support promised a callback but never did.,2024-01,January 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-01-28,Great performance after the last update.,2024-01,January 2024,5,System-Performance,-0.9686987996101379,negative
+2024-01-29,Please add CSV export.,2024-01,January 2024,28,Datei-Download,0.9468191266059875,positive
+2024-02-02,Please add workspace templates.,2024-02,February 2024,20,Templates & Workspace,0.9733182787895203,positive
+2024-02-02,"On-time delivery, thank you!",2024-02,February 2024,10,Versand & Lieferung,0.9852736592292786,positive
+2024-02-04,Login form rejects valid credentials.,2024-02,February 2024,2,Anmelde-Probleme,0.0,neutral
 2024-02-04,Waited 6 minutes in chat and got disconnected.,2024-02,February 2024,36,Waited & Waited Minutes,0.0,neutral
-2024-02-05,Prorated billing is unclear.,2024-02,February 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-02-05,No issues this week—stable release!,2024-02,February 2024,3,Week Stable & Week,-0.3595,negative
-2024-02-06,Funktionswunsch: Export nach Excel.,2024-02,February 2024,27,Datei-Download,0.4588,positive
+2024-02-05,Prorated billing is unclear.,2024-02,February 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-02-05,No issues this week—stable release!,2024-02,February 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-02-06,Funktionswunsch: Export nach Excel.,2024-02,February 2024,27,Datei-Download,0.0,neutral
 2024-02-06,Reports take 2 minutes to generate.,2024-02,February 2024,19,Take & To Generate,0.0,neutral
-2024-02-06,Funktionswunsch: Export nach Excel.,2024-02,February 2024,27,Datei-Download,0.4588,positive
-2024-02-07,Cancellation flow is fair and fair.,2024-02,February 2024,23,Cancel & Flow,0.5574,positive
-2024-02-08,Die Unterstützung von Face ID ist praktisch.,2024-02,February 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-02-08,Love the new dashboard layout.,2024-02,February 2024,9,Benutzeroberfläche,0.6369,positive
-2024-02-10,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.1779,positive
-2024-02-10,Great performance after the last update.,2024-02,February 2024,5,System-Performance,0.6249,positive
-2024-02-11,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.1779,positive
-2024-02-12,Frequent timeouts during login.,2024-02,February 2024,2,Anmelde-Probleme,0.0,neutral
-2024-02-15,Navigation is confusing; too many steps.,2024-02,February 2024,41,Navigation & Navigation Confusing,-0.2263,negative
+2024-02-06,Funktionswunsch: Export nach Excel.,2024-02,February 2024,27,Datei-Download,0.0,neutral
+2024-02-07,Cancellation flow is fair and fair.,2024-02,February 2024,23,Cancel & Flow,0.9926878213882446,positive
+2024-02-08,Die Unterstützung von Face ID ist praktisch.,2024-02,February 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-02-08,Love the new dashboard layout.,2024-02,February 2024,9,Benutzeroberfläche,0.8650643825531006,positive
+2024-02-10,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-02-10,Great performance after the last update.,2024-02,February 2024,5,System-Performance,-0.9686987996101379,negative
+2024-02-11,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-02-12,Frequent timeouts during login.,2024-02,February 2024,2,Anmelde-Probleme,-0.9687365889549255,negative
+2024-02-15,Navigation is confusing; too many steps.,2024-02,February 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
 2024-02-16,Search results are irrelevant.,2024-02,February 2024,35,Search Results & Search,0.0,neutral
-2024-02-16,Love the new dashboard layout.,2024-02,February 2024,9,Benutzeroberfläche,0.6369,positive
-2024-02-17,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.1779,positive
-2024-02-18,Shipping took 1 days—too expensive!,2024-02,February 2024,14,Versand & Lieferung,0.0,neutral
-2024-02-20,SSO works flawlessly.,2024-02,February 2024,5,System-Performance,0.2023,positive
+2024-02-16,Love the new dashboard layout.,2024-02,February 2024,9,Benutzeroberfläche,0.8650643825531006,positive
+2024-02-17,Agent resolved my issue quickly.,2024-02,February 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-02-18,Shipping took 1 days—too expensive!,2024-02,February 2024,14,Versand & Lieferung,-0.9827096462249756,negative
+2024-02-20,SSO works flawlessly.,2024-02,February 2024,5,System-Performance,0.9653708338737488,positive
 2024-02-22,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-02,February 2024,32,Pro Projekt,0.0,neutral
-2024-02-22,Nicht zufrieden mit der letzten Lieferung.,2024-02,February 2024,26,Versand & Lieferung,0.0,neutral
-2024-02-22,Invoice PDF fails to download.,2024-02,February 2024,4,Datei-Download,-0.4215,negative
-2024-02-23,Pages load late; feels cheap.,2024-02,February 2024,18,Benutzeroberfläche,0.0,neutral
+2024-02-22,Nicht zufrieden mit der letzten Lieferung.,2024-02,February 2024,26,Versand & Lieferung,0.994373083114624,positive
+2024-02-22,Invoice PDF fails to download.,2024-02,February 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-02-23,Pages load late; feels cheap.,2024-02,February 2024,18,Benutzeroberfläche,-0.422808974981308,negative
 2024-02-23,Payment form froze on submit.,2024-02,February 2024,0,Abrechnung & Zahlung,0.0,neutral
-2024-02-27,Hidden fees during checkout are frustrating.,2024-02,February 2024,1,Abrechnung & Zahlung,-0.4404,negative
-2024-02-27,Cancellation flow is expensive and fair.,2024-02,February 2024,23,Cancel & Flow,0.3182,positive
-2024-02-28,Nicht zufrieden mit der letzten Lieferung.,2024-02,February 2024,26,Versand & Lieferung,0.0,neutral
+2024-02-27,Hidden fees during checkout are frustrating.,2024-02,February 2024,1,Abrechnung & Zahlung,0.0,neutral
+2024-02-27,Cancellation flow is expensive and fair.,2024-02,February 2024,23,Cancel & Flow,0.9902892112731934,positive
+2024-02-28,Nicht zufrieden mit der letzten Lieferung.,2024-02,February 2024,26,Versand & Lieferung,0.994373083114624,positive
 2024-03-02,Der Zwei-Faktor-Code ist nicht angekommen.,2024-03,March 2024,26,Versand & Lieferung,0.0,neutral
 2024-03-03,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-03,March 2024,32,Pro Projekt,0.0,neutral
-2024-03-05,Package arrived late but the box was soaked.,2024-03,March 2024,15,System-Performance,0.0,neutral
-2024-03-09,VAT number validation keeps failing.,2024-03,March 2024,2,Anmelde-Probleme,-0.4588,negative
+2024-03-05,Package arrived late but the box was soaked.,2024-03,March 2024,15,System-Performance,-0.9740448594093323,negative
+2024-03-09,VAT number validation keeps failing.,2024-03,March 2024,2,Anmelde-Probleme,-0.9554943442344666,negative
 2024-03-09,Der Zwei-Faktor-Code ist nicht angekommen.,2024-03,March 2024,26,Versand & Lieferung,0.0,neutral
-2024-03-12,Cancellation flow is expensive and fair.,2024-03,March 2024,23,Cancel & Flow,0.3182,positive
-2024-03-14,Die Unterstützung von Face ID ist praktisch.,2024-03,March 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-03-15,SSO works flawlessly.,2024-03,March 2024,5,System-Performance,0.2023,positive
-2024-03-16,The app UI is cheap on mobile.,2024-03,March 2024,34,Benutzeroberfläche,0.0,neutral
-2024-03-16,Discount code didn't work at checkout.,2024-03,March 2024,1,Abrechnung & Zahlung,0.0,neutral
-2024-03-21,Funktionswunsch: Export nach Excel.,2024-03,March 2024,27,Datei-Download,0.4588,positive
+2024-03-12,Cancellation flow is expensive and fair.,2024-03,March 2024,23,Cancel & Flow,0.9902892112731934,positive
+2024-03-14,Die Unterstützung von Face ID ist praktisch.,2024-03,March 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-03-15,SSO works flawlessly.,2024-03,March 2024,5,System-Performance,0.9653708338737488,positive
+2024-03-16,The app UI is cheap on mobile.,2024-03,March 2024,34,Benutzeroberfläche,0.908699631690979,positive
+2024-03-16,Discount code didn't work at checkout.,2024-03,March 2024,1,Abrechnung & Zahlung,-0.9327439069747925,negative
+2024-03-21,Funktionswunsch: Export nach Excel.,2024-03,March 2024,27,Datei-Download,0.0,neutral
 2024-03-21,Waited 6 minutes in chat and got disconnected.,2024-03,March 2024,36,Waited & Waited Minutes,0.0,neutral
-2024-03-26,Login form rejects valid credentials.,2024-03,March 2024,2,Anmelde-Probleme,-0.4939,negative
-2024-03-26,Love the new dashboard layout.,2024-03,March 2024,9,Benutzeroberfläche,0.6369,positive
-2024-03-28,Support promised a callback but never did.,2024-03,March 2024,13,Support Rückruf,0.3818,positive
+2024-03-26,Login form rejects valid credentials.,2024-03,March 2024,2,Anmelde-Probleme,0.0,neutral
+2024-03-26,Love the new dashboard layout.,2024-03,March 2024,9,Benutzeroberfläche,0.8650643825531006,positive
+2024-03-28,Support promised a callback but never did.,2024-03,March 2024,13,Support Rückruf,-0.9899795055389404,negative
 2024-03-30,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-03,March 2024,32,Pro Projekt,0.0,neutral
-2024-04-01,SSO works flawlessly.,2024-04,April 2024,5,System-Performance,0.2023,positive
-2024-04-01,Dark mode looks fantastic.,2024-04,April 2024,6,Mode & Mode Looks,0.5574,positive
-2024-04-03,Password reset loop—kept sending me back.,2024-04,April 2024,2,Anmelde-Probleme,0.0,neutral
-2024-04-05,Invoice PDF fails to download.,2024-04,April 2024,4,Datei-Download,-0.4215,negative
-2024-04-05,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,0.3818,positive
-2024-04-05,Shipping took 6 days—too expensive!,2024-04,April 2024,14,Versand & Lieferung,0.0,neutral
-2024-04-08,No issues this week—stable release!,2024-04,April 2024,3,Week Stable & Week,-0.3595,negative
-2024-04-08,Charts render instantly—nice work.,2024-04,April 2024,9,Benutzeroberfläche,0.0,neutral
-2024-04-08,Can't find how to cancel the subscription.,2024-04,April 2024,23,Cancel & Flow,-0.25,negative
-2024-04-08,Danke für den schnellen Service!,2024-04,April 2024,33,Kundensupport,0.0,neutral
-2024-04-08,Package arrived on time but the box was fine.,2024-04,April 2024,15,System-Performance,0.296,positive
-2024-04-08,Return label link is broken.,2024-04,April 2024,40,Link Broken & Label,-0.4767,negative
-2024-04-08,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,0.3818,positive
-2024-04-09,Cancellation flow is great and fair.,2024-04,April 2024,23,Cancel & Flow,0.7506,positive
-2024-04-09,Notifications are delayed or missing.,2024-04,April 2024,11,Updates & Updates Confusing,-0.4767,negative
-2024-04-12,Refund processed quickly—appreciated.,2024-04,April 2024,39,Benutzeroberfläche,0.0,neutral
-2024-04-12,I was charged twice this month.,2024-04,April 2024,22,Twice & Twice Month,-0.2023,negative
-2024-04-13,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,0.3818,positive
-2024-04-13,SSO works flawlessly.,2024-04,April 2024,5,System-Performance,0.2023,positive
-2024-04-15,Knowledge base article solved my problem.,2024-04,April 2024,25,Benutzeroberfläche,-0.1531,negative
-2024-04-15,Customer support was poor—knowledgeable.,2024-04,April 2024,12,Kundensupport,0.4019,positive
-2024-04-16,Knowledge base article solved my problem.,2024-04,April 2024,25,Benutzeroberfläche,-0.1531,negative
-2024-04-18,Loved the sample data in the walkthrough.,2024-04,April 2024,31,Benutzeroberfläche,0.5994,positive
-2024-04-21,Prorated billing is unclear.,2024-04,April 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-04-22,Shipping took 6 days—too poor!,2024-04,April 2024,14,Versand & Lieferung,-0.5255,negative
-2024-04-22,Courier left the parcel at the wrong address.,2024-04,April 2024,16,Parcel At & Parcel,-0.4767,negative
-2024-04-22,Got store credit instead of refund—why?,2024-04,April 2024,39,Benutzeroberfläche,0.3818,positive
-2024-04-24,Pages load quickly; feels poor.,2024-04,April 2024,18,Benutzeroberfläche,-0.4767,negative
-2024-04-25,Exit survey is too long.,2024-04,April 2024,37,Onboarding,0.0,neutral
-2024-04-26,Die Unterstützung von Face ID ist praktisch.,2024-04,April 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-04-27,Return process was smooth and fast.,2024-04,April 2024,38,System-Performance,0.0,neutral
-2024-04-29,Prorated billing is unclear.,2024-04,April 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-04-29,Tracking updates were confusing.,2024-04,April 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-05-01,Dark mode looks fantastic.,2024-05,May 2024,6,Mode & Mode Looks,0.5574,positive
+2024-04-01,SSO works flawlessly.,2024-04,April 2024,5,System-Performance,0.9653708338737488,positive
+2024-04-01,Dark mode looks fantastic.,2024-04,April 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-04-03,Password reset loop—kept sending me back.,2024-04,April 2024,2,Anmelde-Probleme,-0.9596769213676453,negative
+2024-04-05,Invoice PDF fails to download.,2024-04,April 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-04-05,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-04-05,Shipping took 6 days—too expensive!,2024-04,April 2024,14,Versand & Lieferung,-0.9831733703613281,negative
+2024-04-08,No issues this week—stable release!,2024-04,April 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-04-08,Charts render instantly—nice work.,2024-04,April 2024,9,Benutzeroberfläche,0.9685339331626892,positive
+2024-04-08,Can't find how to cancel the subscription.,2024-04,April 2024,23,Cancel & Flow,-0.9580197930335999,negative
+2024-04-08,Danke für den schnellen Service!,2024-04,April 2024,33,Kundensupport,0.9627774953842163,positive
+2024-04-08,Package arrived on time but the box was fine.,2024-04,April 2024,15,System-Performance,-0.9531811475753784,negative
+2024-04-08,Return label link is broken.,2024-04,April 2024,40,Link Broken & Label,0.0,neutral
+2024-04-08,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-04-09,Cancellation flow is great and fair.,2024-04,April 2024,23,Cancel & Flow,0.9969159364700317,positive
+2024-04-09,Notifications are delayed or missing.,2024-04,April 2024,11,Updates & Updates Confusing,-0.9586629867553711,negative
+2024-04-12,Refund processed quickly—appreciated.,2024-04,April 2024,39,Benutzeroberfläche,-0.917036235332489,negative
+2024-04-12,I was charged twice this month.,2024-04,April 2024,22,Twice & Twice Month,-0.94029700756073,negative
+2024-04-13,Support promised a callback but never did.,2024-04,April 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-04-13,SSO works flawlessly.,2024-04,April 2024,5,System-Performance,0.9653708338737488,positive
+2024-04-15,Knowledge base article solved my problem.,2024-04,April 2024,25,Benutzeroberfläche,0.0,neutral
+2024-04-15,Customer support was poor—knowledgeable.,2024-04,April 2024,12,Kundensupport,-0.9526197910308838,negative
+2024-04-16,Knowledge base article solved my problem.,2024-04,April 2024,25,Benutzeroberfläche,0.0,neutral
+2024-04-18,Loved the sample data in the walkthrough.,2024-04,April 2024,31,Benutzeroberfläche,0.0,neutral
+2024-04-21,Prorated billing is unclear.,2024-04,April 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-04-22,Shipping took 6 days—too poor!,2024-04,April 2024,14,Versand & Lieferung,-0.984369158744812,negative
+2024-04-22,Courier left the parcel at the wrong address.,2024-04,April 2024,16,Parcel At & Parcel,0.0,neutral
+2024-04-22,Got store credit instead of refund—why?,2024-04,April 2024,39,Benutzeroberfläche,-0.9470576643943787,negative
+2024-04-24,Pages load quickly; feels poor.,2024-04,April 2024,18,Benutzeroberfläche,0.8079326748847961,positive
+2024-04-25,Exit survey is too long.,2024-04,April 2024,37,Onboarding,-0.9620301127433777,negative
+2024-04-26,Die Unterstützung von Face ID ist praktisch.,2024-04,April 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-04-27,Return process was smooth and fast.,2024-04,April 2024,38,System-Performance,-0.9685261249542236,negative
+2024-04-29,Prorated billing is unclear.,2024-04,April 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-04-29,Tracking updates were confusing.,2024-04,April 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-05-01,Dark mode looks fantastic.,2024-05,May 2024,6,Mode & Mode Looks,0.9948362112045288,positive
 2024-05-02,Der Zwei-Faktor-Code ist nicht angekommen.,2024-05,May 2024,26,Versand & Lieferung,0.0,neutral
-2024-05-03,Navigation is confusing; too many steps.,2024-05,May 2024,41,Navigation & Navigation Confusing,-0.2263,negative
-2024-05-04,Love the new dashboard layout.,2024-05,May 2024,9,Benutzeroberfläche,0.6369,positive
-2024-05-06,Invoice PDF fails to download.,2024-05,May 2024,4,Datei-Download,-0.4215,negative
-2024-05-07,Checklist helped me get started quickly.,2024-05,May 2024,31,Benutzeroberfläche,0.0,neutral
-2024-05-08,Tracking updates were confusing.,2024-05,May 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-05-09,I was charged twice this month.,2024-05,May 2024,22,Twice & Twice Month,-0.2023,negative
-2024-05-10,Agent resolved my issue quickly.,2024-05,May 2024,25,Benutzeroberfläche,0.1779,positive
-2024-05-10,Eine Kalender-Synchronisation wäre hilfreich.,2024-05,May 2024,29,Kundensupport,0.0,neutral
-2024-05-10,Shipping took 3 days—too excellent!,2024-05,May 2024,14,Versand & Lieferung,0.6114,positive
-2024-05-12,Refund processed quickly—appreciated.,2024-05,May 2024,39,Benutzeroberfläche,0.0,neutral
-2024-05-14,Die Unterstützung von Face ID ist praktisch.,2024-05,May 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-05-14,Confusing first-run experience.,2024-05,May 2024,38,System-Performance,-0.2263,negative
-2024-05-18,Die Unterstützung von Face ID ist praktisch.,2024-05,May 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-05-22,Knowledge base article solved my problem.,2024-05,May 2024,25,Benutzeroberfläche,-0.1531,negative
-2024-05-23,Return label link is broken.,2024-05,May 2024,40,Link Broken & Label,-0.4767,negative
-2024-05-23,Password reset loop—kept sending me back.,2024-05,May 2024,2,Anmelde-Probleme,0.0,neutral
+2024-05-03,Navigation is confusing; too many steps.,2024-05,May 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2024-05-04,Love the new dashboard layout.,2024-05,May 2024,9,Benutzeroberfläche,0.8650643825531006,positive
+2024-05-06,Invoice PDF fails to download.,2024-05,May 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-05-07,Checklist helped me get started quickly.,2024-05,May 2024,31,Benutzeroberfläche,-0.9842934012413025,negative
+2024-05-08,Tracking updates were confusing.,2024-05,May 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-05-09,I was charged twice this month.,2024-05,May 2024,22,Twice & Twice Month,-0.94029700756073,negative
+2024-05-10,Agent resolved my issue quickly.,2024-05,May 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-05-10,Eine Kalender-Synchronisation wäre hilfreich.,2024-05,May 2024,29,Kundensupport,0.9504669904708862,positive
+2024-05-10,Shipping took 3 days—too excellent!,2024-05,May 2024,14,Versand & Lieferung,0.9934278130531311,positive
+2024-05-12,Refund processed quickly—appreciated.,2024-05,May 2024,39,Benutzeroberfläche,-0.917036235332489,negative
+2024-05-14,Die Unterstützung von Face ID ist praktisch.,2024-05,May 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-05-14,Confusing first-run experience.,2024-05,May 2024,38,System-Performance,0.9613410234451294,positive
+2024-05-18,Die Unterstützung von Face ID ist praktisch.,2024-05,May 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-05-22,Knowledge base article solved my problem.,2024-05,May 2024,25,Benutzeroberfläche,0.0,neutral
+2024-05-23,Return label link is broken.,2024-05,May 2024,40,Link Broken & Label,0.0,neutral
+2024-05-23,Password reset loop—kept sending me back.,2024-05,May 2024,2,Anmelde-Probleme,-0.9596769213676453,negative
 2024-05-23,Search results are irrelevant.,2024-05,May 2024,35,Search Results & Search,0.0,neutral
-2024-05-23,Refund processed quickly—appreciated.,2024-05,May 2024,39,Benutzeroberfläche,0.0,neutral
-2024-05-26,Eine Kalender-Synchronisation wäre hilfreich.,2024-05,May 2024,29,Kundensupport,0.0,neutral
+2024-05-23,Refund processed quickly—appreciated.,2024-05,May 2024,39,Benutzeroberfläche,-0.917036235332489,negative
+2024-05-26,Eine Kalender-Synchronisation wäre hilfreich.,2024-05,May 2024,29,Kundensupport,0.9504669904708862,positive
 2024-05-27,Waited 6 minutes in chat and got disconnected.,2024-05,May 2024,36,Waited & Waited Minutes,0.0,neutral
-2024-05-29,No issues this week—stable release!,2024-05,May 2024,3,Week Stable & Week,-0.3595,negative
-2024-05-30,Pages load quickly; feels cheap.,2024-05,May 2024,18,Benutzeroberfläche,0.0,neutral
+2024-05-29,No issues this week—stable release!,2024-05,May 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-05-30,Pages load quickly; feels cheap.,2024-05,May 2024,18,Benutzeroberfläche,0.7556607127189636,positive
 2024-05-30,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-05,May 2024,32,Pro Projekt,0.0,neutral
-2024-05-31,Tracking updates were confusing.,2024-05,May 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-06-01,Funktionswunsch: Export nach Excel.,2024-06,June 2024,27,Datei-Download,0.4588,positive
-2024-06-02,Hidden fees during checkout are frustrating.,2024-06,June 2024,1,Abrechnung & Zahlung,-0.4404,negative
-2024-06-03,No issues this week—stable release!,2024-06,June 2024,3,Week Stable & Week,-0.3595,negative
-2024-06-05,Refund processed quickly—appreciated.,2024-06,June 2024,39,Benutzeroberfläche,0.0,neutral
-2024-06-06,Danke für den schnellen Service!,2024-06,June 2024,33,Kundensupport,0.0,neutral
-2024-06-08,The app UI is cheap on mobile.,2024-06,June 2024,34,Benutzeroberfläche,0.0,neutral
-2024-06-08,Navigation is confusing; too many steps.,2024-06,June 2024,41,Navigation & Navigation Confusing,-0.2263,negative
-2024-06-08,"Meh—it's okay, nothing special.",2024-06,June 2024,3,Week Stable & Week,-0.092,negative
-2024-06-09,Die Unterstützung von Face ID ist praktisch.,2024-06,June 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-06-09,Customer support was great—very friendly.,2024-06,June 2024,12,Kundensupport,0.7096,positive
-2024-06-09,Got store credit instead of refund—why?,2024-06,June 2024,39,Benutzeroberfläche,0.3818,positive
-2024-06-10,No issues this week—stable release!,2024-06,June 2024,3,Week Stable & Week,-0.3595,negative
-2024-06-11,"Meh—it's okay, nothing special.",2024-06,June 2024,3,Week Stable & Week,-0.092,negative
+2024-05-31,Tracking updates were confusing.,2024-05,May 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-06-01,Funktionswunsch: Export nach Excel.,2024-06,June 2024,27,Datei-Download,0.0,neutral
+2024-06-02,Hidden fees during checkout are frustrating.,2024-06,June 2024,1,Abrechnung & Zahlung,0.0,neutral
+2024-06-03,No issues this week—stable release!,2024-06,June 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-06-05,Refund processed quickly—appreciated.,2024-06,June 2024,39,Benutzeroberfläche,-0.917036235332489,negative
+2024-06-06,Danke für den schnellen Service!,2024-06,June 2024,33,Kundensupport,0.9627774953842163,positive
+2024-06-08,The app UI is cheap on mobile.,2024-06,June 2024,34,Benutzeroberfläche,0.908699631690979,positive
+2024-06-08,Navigation is confusing; too many steps.,2024-06,June 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2024-06-08,"Meh—it's okay, nothing special.",2024-06,June 2024,3,Week Stable & Week,-0.9645628333091736,negative
+2024-06-09,Die Unterstützung von Face ID ist praktisch.,2024-06,June 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-06-09,Customer support was great—very friendly.,2024-06,June 2024,12,Kundensupport,0.9834268093109131,positive
+2024-06-09,Got store credit instead of refund—why?,2024-06,June 2024,39,Benutzeroberfläche,-0.9470576643943787,negative
+2024-06-10,No issues this week—stable release!,2024-06,June 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-06-11,"Meh—it's okay, nothing special.",2024-06,June 2024,3,Week Stable & Week,-0.9645628333091736,negative
 2024-06-11,Reports take 5 minutes to generate.,2024-06,June 2024,19,Take & To Generate,0.0,neutral
 2024-06-13,Reports take 7 minutes to generate.,2024-06,June 2024,19,Take & To Generate,0.0,neutral
-2024-06-15,Die App-Oberfläche ist auf dem Handy schlecht.,2024-06,June 2024,33,Kundensupport,-0.5994,negative
-2024-06-16,Frequent timeouts during login.,2024-06,June 2024,2,Anmelde-Probleme,0.0,neutral
-2024-06-16,Hidden fees during checkout are frustrating.,2024-06,June 2024,1,Abrechnung & Zahlung,-0.4404,negative
-2024-06-18,Cancellation flow is great and fair.,2024-06,June 2024,23,Cancel & Flow,0.7506,positive
+2024-06-15,Die App-Oberfläche ist auf dem Handy schlecht.,2024-06,June 2024,33,Kundensupport,-0.9625122547149658,negative
+2024-06-16,Frequent timeouts during login.,2024-06,June 2024,2,Anmelde-Probleme,-0.9687365889549255,negative
+2024-06-16,Hidden fees during checkout are frustrating.,2024-06,June 2024,1,Abrechnung & Zahlung,0.0,neutral
+2024-06-18,Cancellation flow is great and fair.,2024-06,June 2024,23,Cancel & Flow,0.9969159364700317,positive
 2024-06-19,Der Zwei-Faktor-Code ist nicht angekommen.,2024-06,June 2024,26,Versand & Lieferung,0.0,neutral
-2024-06-20,Notifications are delayed or missing.,2024-06,June 2024,11,Updates & Updates Confusing,-0.4767,negative
+2024-06-20,Notifications are delayed or missing.,2024-06,June 2024,11,Updates & Updates Confusing,-0.9586629867553711,negative
 2024-06-22,Payment form froze on submit.,2024-06,June 2024,0,Abrechnung & Zahlung,0.0,neutral
-2024-06-24,The app UI is fair on mobile.,2024-06,June 2024,34,Benutzeroberfläche,0.3182,positive
-2024-06-25,Loved the product overall 😊,2024-06,June 2024,12,Kundensupport,0.872,positive
-2024-06-28,Support promised a callback but never did.,2024-06,June 2024,13,Support Rückruf,0.3818,positive
-2024-06-29,Great value for money.,2024-06,June 2024,30,Value & Value For,0.7579,positive
-2024-07-02,Funktionswunsch: Export nach Excel.,2024-07,July 2024,27,Datei-Download,0.4588,positive
-2024-07-04,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-07,July 2024,26,Versand & Lieferung,0.0,neutral
-2024-07-05,No issues this week—stable release!,2024-07,July 2024,3,Week Stable & Week,-0.3595,negative
+2024-06-24,The app UI is fair on mobile.,2024-06,June 2024,34,Benutzeroberfläche,0.9722418785095215,positive
+2024-06-25,Loved the product overall 😊,2024-06,June 2024,12,Kundensupport,-0.9715122580528259,negative
+2024-06-28,Support promised a callback but never did.,2024-06,June 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-06-29,Great value for money.,2024-06,June 2024,30,Value & Value For,0.0,neutral
+2024-07-02,Funktionswunsch: Export nach Excel.,2024-07,July 2024,27,Datei-Download,0.0,neutral
+2024-07-04,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-07,July 2024,26,Versand & Lieferung,-0.9514044523239136,negative
+2024-07-05,No issues this week—stable release!,2024-07,July 2024,3,Week Stable & Week,-0.5263790488243103,negative
 2024-07-06,Search results are irrelevant.,2024-07,July 2024,35,Search Results & Search,0.0,neutral
-2024-07-07,Too many emails during onboarding.,2024-07,July 2024,37,Onboarding,0.0,neutral
+2024-07-07,Too many emails during onboarding.,2024-07,July 2024,37,Onboarding,-0.9599809050559998,negative
 2024-07-08,Vier Minuten im Chat gewartet und dann getrennt.,2024-07,July 2024,33,Kundensupport,0.0,neutral
-2024-07-08,"On-time delivery, thank you!",2024-07,July 2024,10,Versand & Lieferung,0.4199,positive
-2024-07-08,The new bulk upload is exactly what we needed.,2024-07,July 2024,-1,Rauschen,0.0,neutral
-2024-07-08,The new API access is exactly what we needed.,2024-07,July 2024,24,Api Access,0.0,neutral
-2024-07-09,Dark mode looks fantastic.,2024-07,July 2024,6,Mode & Mode Looks,0.5574,positive
-2024-07-10,SSO works flawlessly.,2024-07,July 2024,5,System-Performance,0.2023,positive
-2024-07-10,Pages load late; feels fair.,2024-07,July 2024,18,Benutzeroberfläche,0.3182,positive
-2024-07-10,Loved the sample data in the walkthrough.,2024-07,July 2024,31,Benutzeroberfläche,0.5994,positive
-2024-07-12,Got store credit instead of refund—why?,2024-07,July 2024,39,Benutzeroberfläche,0.3818,positive
-2024-07-13,Customer support was expensive—did not listen.,2024-07,July 2024,13,Support Rückruf,0.4019,positive
+2024-07-08,"On-time delivery, thank you!",2024-07,July 2024,10,Versand & Lieferung,0.9852736592292786,positive
+2024-07-08,The new bulk upload is exactly what we needed.,2024-07,July 2024,-1,Rauschen,0.9429233074188232,positive
+2024-07-08,The new API access is exactly what we needed.,2024-07,July 2024,24,Api Access,0.9587718844413757,positive
+2024-07-09,Dark mode looks fantastic.,2024-07,July 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-07-10,SSO works flawlessly.,2024-07,July 2024,5,System-Performance,0.9653708338737488,positive
+2024-07-10,Pages load late; feels fair.,2024-07,July 2024,18,Benutzeroberfläche,0.38152626156806946,positive
+2024-07-10,Loved the sample data in the walkthrough.,2024-07,July 2024,31,Benutzeroberfläche,0.0,neutral
+2024-07-12,Got store credit instead of refund—why?,2024-07,July 2024,39,Benutzeroberfläche,-0.9470576643943787,negative
+2024-07-13,Customer support was expensive—did not listen.,2024-07,July 2024,13,Support Rückruf,-0.9871507883071899,negative
 2024-07-14,Pages load quickly; feels expensive.,2024-07,July 2024,18,Benutzeroberfläche,0.0,neutral
-2024-07-14,Tracking updates were confusing.,2024-07,July 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-07-16,Too many steps to return an item.,2024-07,July 2024,40,Link Broken & Label,0.0,neutral
-2024-07-19,Login form rejects valid credentials.,2024-07,July 2024,2,Anmelde-Probleme,-0.4939,negative
-2024-07-19,Loved the sample data in the walkthrough.,2024-07,July 2024,31,Benutzeroberfläche,0.5994,positive
-2024-07-20,Prorated billing is unclear.,2024-07,July 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-07-21,Die Unterstützung von Face ID ist praktisch.,2024-07,July 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-07-22,Great performance after the last update.,2024-07,July 2024,5,System-Performance,0.6249,positive
-2024-07-24,Navigation is confusing; too many steps.,2024-07,July 2024,41,Navigation & Navigation Confusing,-0.2263,negative
+2024-07-14,Tracking updates were confusing.,2024-07,July 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-07-16,Too many steps to return an item.,2024-07,July 2024,40,Link Broken & Label,-0.972285807132721,negative
+2024-07-19,Login form rejects valid credentials.,2024-07,July 2024,2,Anmelde-Probleme,0.0,neutral
+2024-07-19,Loved the sample data in the walkthrough.,2024-07,July 2024,31,Benutzeroberfläche,0.0,neutral
+2024-07-20,Prorated billing is unclear.,2024-07,July 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-07-21,Die Unterstützung von Face ID ist praktisch.,2024-07,July 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-07-22,Great performance after the last update.,2024-07,July 2024,5,System-Performance,-0.9686987996101379,negative
+2024-07-24,Navigation is confusing; too many steps.,2024-07,July 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
 2024-07-25,Payment form froze on submit.,2024-07,July 2024,0,Abrechnung & Zahlung,0.0,neutral
-2024-07-26,Navigation is confusing; too many steps.,2024-07,July 2024,41,Navigation & Navigation Confusing,-0.2263,negative
-2024-08-02,Please add custom roles.,2024-08,August 2024,21,Roles & Custom,0.3182,positive
-2024-08-02,Please add workspace templates.,2024-08,August 2024,20,Templates & Workspace,0.3182,positive
-2024-08-04,Too many emails during onboarding.,2024-08,August 2024,37,Onboarding,0.0,neutral
-2024-08-04,Loved the product overall 😊,2024-08,August 2024,12,Kundensupport,0.872,positive
-2024-08-05,Shipping took 9 days—too fair!,2024-08,August 2024,14,Versand & Lieferung,0.3802,positive
-2024-08-05,Invoice PDF fails to download.,2024-08,August 2024,4,Datei-Download,-0.4215,negative
-2024-08-07,Knowledge base article solved my problem.,2024-08,August 2024,25,Benutzeroberfläche,-0.1531,negative
-2024-08-07,Hidden fees during checkout are frustrating.,2024-08,August 2024,1,Abrechnung & Zahlung,-0.4404,negative
-2024-08-07,Can't find how to cancel the subscription.,2024-08,August 2024,23,Cancel & Flow,-0.25,negative
-2024-08-10,I was charged twice this month.,2024-08,August 2024,22,Twice & Twice Month,-0.2023,negative
-2024-08-10,Prices feel great compared to competitors.,2024-08,August 2024,8,Prices & Prices Feel,0.6249,positive
-2024-08-12,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-08,August 2024,26,Versand & Lieferung,0.0,neutral
-2024-08-12,Please add CSV export.,2024-08,August 2024,28,Datei-Download,0.3182,positive
-2024-08-12,Courier left the parcel at the wrong address.,2024-08,August 2024,16,Parcel At & Parcel,-0.4767,negative
-2024-08-13,Agent resolved my issue quickly.,2024-08,August 2024,25,Benutzeroberfläche,0.1779,positive
-2024-08-14,Checklist helped me get started quickly.,2024-08,August 2024,31,Benutzeroberfläche,0.0,neutral
-2024-08-17,Dark mode looks fantastic.,2024-08,August 2024,6,Mode & Mode Looks,0.5574,positive
+2024-07-26,Navigation is confusing; too many steps.,2024-07,July 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2024-08-02,Please add custom roles.,2024-08,August 2024,21,Roles & Custom,0.9652268290519714,positive
+2024-08-02,Please add workspace templates.,2024-08,August 2024,20,Templates & Workspace,0.9733182787895203,positive
+2024-08-04,Too many emails during onboarding.,2024-08,August 2024,37,Onboarding,-0.9599809050559998,negative
+2024-08-04,Loved the product overall 😊,2024-08,August 2024,12,Kundensupport,-0.9715122580528259,negative
+2024-08-05,Shipping took 9 days—too fair!,2024-08,August 2024,14,Versand & Lieferung,-0.676440954208374,negative
+2024-08-05,Invoice PDF fails to download.,2024-08,August 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-08-07,Knowledge base article solved my problem.,2024-08,August 2024,25,Benutzeroberfläche,0.0,neutral
+2024-08-07,Hidden fees during checkout are frustrating.,2024-08,August 2024,1,Abrechnung & Zahlung,0.0,neutral
+2024-08-07,Can't find how to cancel the subscription.,2024-08,August 2024,23,Cancel & Flow,-0.9580197930335999,negative
+2024-08-10,I was charged twice this month.,2024-08,August 2024,22,Twice & Twice Month,-0.94029700756073,negative
+2024-08-10,Prices feel great compared to competitors.,2024-08,August 2024,8,Prices & Prices Feel,0.9861658811569214,positive
+2024-08-12,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-08,August 2024,26,Versand & Lieferung,-0.9514044523239136,negative
+2024-08-12,Please add CSV export.,2024-08,August 2024,28,Datei-Download,0.9468191266059875,positive
+2024-08-12,Courier left the parcel at the wrong address.,2024-08,August 2024,16,Parcel At & Parcel,0.0,neutral
+2024-08-13,Agent resolved my issue quickly.,2024-08,August 2024,25,Benutzeroberfläche,0.8719848990440369,positive
+2024-08-14,Checklist helped me get started quickly.,2024-08,August 2024,31,Benutzeroberfläche,-0.9842934012413025,negative
+2024-08-17,Dark mode looks fantastic.,2024-08,August 2024,6,Mode & Mode Looks,0.9948362112045288,positive
 2024-08-17,Waited 9 minutes in chat and got disconnected.,2024-08,August 2024,36,Waited & Waited Minutes,0.0,neutral
-2024-08-18,Support promised a callback but never did.,2024-08,August 2024,13,Support Rückruf,0.3818,positive
-2024-08-18,Package arrived slowly but the box was a bit dented.,2024-08,August 2024,15,System-Performance,0.0,neutral
-2024-08-18,Navigation is confusing; too many steps.,2024-08,August 2024,41,Navigation & Navigation Confusing,-0.2263,negative
-2024-08-20,Frequent timeouts during login.,2024-08,August 2024,2,Anmelde-Probleme,0.0,neutral
-2024-08-20,Shipping took 8 days—too excellent!,2024-08,August 2024,14,Versand & Lieferung,0.6114,positive
-2024-08-20,Dark mode looks fantastic.,2024-08,August 2024,6,Mode & Mode Looks,0.5574,positive
-2024-08-21,Invoice PDF fails to download.,2024-08,August 2024,4,Datei-Download,-0.4215,negative
-2024-08-22,Great value for money.,2024-08,August 2024,30,Value & Value For,0.7579,positive
-2024-08-24,Tracking updates were confusing.,2024-08,August 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-08-28,Prorated billing is unclear.,2024-08,August 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-08-29,Danke für den schnellen Service!,2024-08,August 2024,33,Kundensupport,0.0,neutral
-2024-08-30,Eine Kalender-Synchronisation wäre hilfreich.,2024-08,August 2024,29,Kundensupport,0.0,neutral
+2024-08-18,Support promised a callback but never did.,2024-08,August 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-08-18,Package arrived slowly but the box was a bit dented.,2024-08,August 2024,15,System-Performance,-0.9804728627204895,negative
+2024-08-18,Navigation is confusing; too many steps.,2024-08,August 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2024-08-20,Frequent timeouts during login.,2024-08,August 2024,2,Anmelde-Probleme,-0.9687365889549255,negative
+2024-08-20,Shipping took 8 days—too excellent!,2024-08,August 2024,14,Versand & Lieferung,0.9934093952178955,positive
+2024-08-20,Dark mode looks fantastic.,2024-08,August 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-08-21,Invoice PDF fails to download.,2024-08,August 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-08-22,Great value for money.,2024-08,August 2024,30,Value & Value For,0.0,neutral
+2024-08-24,Tracking updates were confusing.,2024-08,August 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-08-28,Prorated billing is unclear.,2024-08,August 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-08-29,Danke für den schnellen Service!,2024-08,August 2024,33,Kundensupport,0.9627774953842163,positive
+2024-08-30,Eine Kalender-Synchronisation wäre hilfreich.,2024-08,August 2024,29,Kundensupport,0.9504669904708862,positive
 2024-08-31,Waited 9 minutes in chat and got disconnected.,2024-08,August 2024,36,Waited & Waited Minutes,0.0,neutral
 2024-09-02,Payment form froze on submit.,2024-09,September 2024,0,Abrechnung & Zahlung,0.0,neutral
-2024-09-03,I cancelled because of pricing concerns.,2024-09,September 2024,22,Twice & Twice Month,-0.25,negative
-2024-09-03,Support promised a callback but never did.,2024-09,September 2024,13,Support Rückruf,0.3818,positive
-2024-09-08,Great value for money.,2024-09,September 2024,30,Value & Value For,0.7579,positive
-2024-09-09,The app crashed when I clicked 'Save'.,2024-09,September 2024,0,Abrechnung & Zahlung,0.4939,positive
-2024-09-09,Prorated billing is unclear.,2024-09,September 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-09-09,Prorated billing is unclear.,2024-09,September 2024,1,Abrechnung & Zahlung,-0.25,negative
-2024-09-09,The new custom roles is exactly what we needed.,2024-09,September 2024,21,Roles & Custom,0.0,neutral
-2024-09-10,Nicht zufrieden mit der letzten Lieferung.,2024-09,September 2024,26,Versand & Lieferung,0.0,neutral
-2024-09-10,Please add bulk upload.,2024-09,September 2024,28,Datei-Download,0.3182,positive
-2024-09-10,Invoice PDF fails to download.,2024-09,September 2024,4,Datei-Download,-0.4215,negative
-2024-09-12,No issues this week—stable release!,2024-09,September 2024,3,Week Stable & Week,-0.3595,negative
-2024-09-14,Knowledge base article solved my problem.,2024-09,September 2024,25,Benutzeroberfläche,-0.1531,negative
-2024-09-15,Hidden fees during checkout are frustrating.,2024-09,September 2024,1,Abrechnung & Zahlung,-0.4404,negative
-2024-09-19,Eine Kalender-Synchronisation wäre hilfreich.,2024-09,September 2024,29,Kundensupport,0.0,neutral
-2024-09-20,Courier left the parcel at the wrong address.,2024-09,September 2024,16,Parcel At & Parcel,-0.4767,negative
-2024-09-21,Shipping took 4 days—too fair!,2024-09,September 2024,14,Versand & Lieferung,0.3802,positive
-2024-09-24,Prices feel poor compared to competitors.,2024-09,September 2024,8,Prices & Prices Feel,-0.4767,negative
-2024-09-24,Confusing first-run experience.,2024-09,September 2024,38,System-Performance,-0.2263,negative
-2024-09-25,Support promised a callback but never did.,2024-09,September 2024,13,Support Rückruf,0.3818,positive
-2024-09-26,Cancellation flow is fair and fair.,2024-09,September 2024,23,Cancel & Flow,0.5574,positive
-2024-09-27,Too many emails during onboarding.,2024-09,September 2024,37,Onboarding,0.0,neutral
-2024-09-27,Tracking updates were confusing.,2024-09,September 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-09-28,Shipping took 5 days—too great!,2024-09,September 2024,10,Versand & Lieferung,0.6588,positive
+2024-09-03,I cancelled because of pricing concerns.,2024-09,September 2024,22,Twice & Twice Month,0.5458189249038696,positive
+2024-09-03,Support promised a callback but never did.,2024-09,September 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-09-08,Great value for money.,2024-09,September 2024,30,Value & Value For,0.0,neutral
+2024-09-09,The app crashed when I clicked 'Save'.,2024-09,September 2024,0,Abrechnung & Zahlung,-0.9920915365219116,negative
+2024-09-09,Prorated billing is unclear.,2024-09,September 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-09-09,Prorated billing is unclear.,2024-09,September 2024,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2024-09-09,The new custom roles is exactly what we needed.,2024-09,September 2024,21,Roles & Custom,0.966234564781189,positive
+2024-09-10,Nicht zufrieden mit der letzten Lieferung.,2024-09,September 2024,26,Versand & Lieferung,0.994373083114624,positive
+2024-09-10,Please add bulk upload.,2024-09,September 2024,28,Datei-Download,0.9778922200202942,positive
+2024-09-10,Invoice PDF fails to download.,2024-09,September 2024,4,Datei-Download,-0.9487853646278381,negative
+2024-09-12,No issues this week—stable release!,2024-09,September 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-09-14,Knowledge base article solved my problem.,2024-09,September 2024,25,Benutzeroberfläche,0.0,neutral
+2024-09-15,Hidden fees during checkout are frustrating.,2024-09,September 2024,1,Abrechnung & Zahlung,0.0,neutral
+2024-09-19,Eine Kalender-Synchronisation wäre hilfreich.,2024-09,September 2024,29,Kundensupport,0.9504669904708862,positive
+2024-09-20,Courier left the parcel at the wrong address.,2024-09,September 2024,16,Parcel At & Parcel,0.0,neutral
+2024-09-21,Shipping took 4 days—too fair!,2024-09,September 2024,14,Versand & Lieferung,0.5535871982574463,positive
+2024-09-24,Prices feel poor compared to competitors.,2024-09,September 2024,8,Prices & Prices Feel,-0.9155930876731873,negative
+2024-09-24,Confusing first-run experience.,2024-09,September 2024,38,System-Performance,0.9613410234451294,positive
+2024-09-25,Support promised a callback but never did.,2024-09,September 2024,13,Support Rückruf,-0.9899795055389404,negative
+2024-09-26,Cancellation flow is fair and fair.,2024-09,September 2024,23,Cancel & Flow,0.9926878213882446,positive
+2024-09-27,Too many emails during onboarding.,2024-09,September 2024,37,Onboarding,-0.9599809050559998,negative
+2024-09-27,Tracking updates were confusing.,2024-09,September 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-09-28,Shipping took 5 days—too great!,2024-09,September 2024,10,Versand & Lieferung,0.9867069125175476,positive
 2024-09-29,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-09,September 2024,32,Pro Projekt,0.0,neutral
-2024-09-30,"Meh—it's okay, nothing special.",2024-09,September 2024,3,Week Stable & Week,-0.092,negative
-2024-10-03,Return label link is broken.,2024-10,October 2024,40,Link Broken & Label,-0.4767,negative
-2024-10-03,Scrolling is janky on older devices.,2024-10,October 2024,17,Scrolling Janky & Scrolling,0.0,neutral
-2024-10-03,Appreciate the hassle-free returns.,2024-10,October 2024,39,Benutzeroberfläche,0.4019,positive
-2024-10-03,Great performance after the last update.,2024-10,October 2024,5,System-Performance,0.6249,positive
-2024-10-05,VAT number validation keeps failing.,2024-10,October 2024,2,Anmelde-Probleme,-0.4588,negative
-2024-10-06,Charts render instantly—nice work.,2024-10,October 2024,9,Benutzeroberfläche,0.0,neutral
-2024-10-06,Prices feel poor compared to competitors.,2024-10,October 2024,8,Prices & Prices Feel,-0.4767,negative
-2024-10-09,Login form rejects valid credentials.,2024-10,October 2024,2,Anmelde-Probleme,-0.4939,negative
-2024-10-09,The new custom roles is exactly what we needed.,2024-10,October 2024,21,Roles & Custom,0.0,neutral
-2024-10-10,Great value for money.,2024-10,October 2024,30,Value & Value For,0.7579,positive
-2024-10-11,The app UI is fair on mobile.,2024-10,October 2024,34,Benutzeroberfläche,0.3182,positive
-2024-10-11,Navigation is confusing; too many steps.,2024-10,October 2024,41,Navigation & Navigation Confusing,-0.2263,negative
-2024-10-14,Love the new dashboard layout.,2024-10,October 2024,9,Benutzeroberfläche,0.6369,positive
+2024-09-30,"Meh—it's okay, nothing special.",2024-09,September 2024,3,Week Stable & Week,-0.9645628333091736,negative
+2024-10-03,Return label link is broken.,2024-10,October 2024,40,Link Broken & Label,0.0,neutral
+2024-10-03,Scrolling is janky on older devices.,2024-10,October 2024,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2024-10-03,Appreciate the hassle-free returns.,2024-10,October 2024,39,Benutzeroberfläche,0.0,neutral
+2024-10-03,Great performance after the last update.,2024-10,October 2024,5,System-Performance,-0.9686987996101379,negative
+2024-10-05,VAT number validation keeps failing.,2024-10,October 2024,2,Anmelde-Probleme,-0.9554943442344666,negative
+2024-10-06,Charts render instantly—nice work.,2024-10,October 2024,9,Benutzeroberfläche,0.9685339331626892,positive
+2024-10-06,Prices feel poor compared to competitors.,2024-10,October 2024,8,Prices & Prices Feel,-0.9155930876731873,negative
+2024-10-09,Login form rejects valid credentials.,2024-10,October 2024,2,Anmelde-Probleme,0.0,neutral
+2024-10-09,The new custom roles is exactly what we needed.,2024-10,October 2024,21,Roles & Custom,0.966234564781189,positive
+2024-10-10,Great value for money.,2024-10,October 2024,30,Value & Value For,0.0,neutral
+2024-10-11,The app UI is fair on mobile.,2024-10,October 2024,34,Benutzeroberfläche,0.9722418785095215,positive
+2024-10-11,Navigation is confusing; too many steps.,2024-10,October 2024,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2024-10-14,Love the new dashboard layout.,2024-10,October 2024,9,Benutzeroberfläche,0.8650643825531006,positive
 2024-10-15,Search results are irrelevant.,2024-10,October 2024,35,Search Results & Search,0.0,neutral
 2024-10-15,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-10,October 2024,32,Pro Projekt,0.0,neutral
-2024-10-20,Prices feel cheap compared to competitors.,2024-10,October 2024,8,Prices & Prices Feel,0.0,neutral
-2024-10-22,Frequent timeouts during login.,2024-10,October 2024,2,Anmelde-Probleme,0.0,neutral
-2024-10-24,Die Unterstützung von Face ID ist praktisch.,2024-10,October 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-10-28,Charts render instantly—nice work.,2024-10,October 2024,9,Benutzeroberfläche,0.0,neutral
+2024-10-20,Prices feel cheap compared to competitors.,2024-10,October 2024,8,Prices & Prices Feel,-0.9350733160972595,negative
+2024-10-22,Frequent timeouts during login.,2024-10,October 2024,2,Anmelde-Probleme,-0.9687365889549255,negative
+2024-10-24,Die Unterstützung von Face ID ist praktisch.,2024-10,October 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-10-28,Charts render instantly—nice work.,2024-10,October 2024,9,Benutzeroberfläche,0.9685339331626892,positive
 2024-10-28,Reports take 5 minutes to generate.,2024-10,October 2024,19,Take & To Generate,0.0,neutral
-2024-10-30,Confusing first-run experience.,2024-10,October 2024,38,System-Performance,-0.2263,negative
-2024-10-31,Please add API access.,2024-10,October 2024,25,Benutzeroberfläche,0.3182,positive
-2024-11-04,No issues this week—stable release!,2024-11,November 2024,3,Week Stable & Week,-0.3595,negative
-2024-11-09,VAT number validation keeps failing.,2024-11,November 2024,2,Anmelde-Probleme,-0.4588,negative
+2024-10-30,Confusing first-run experience.,2024-10,October 2024,38,System-Performance,0.9613410234451294,positive
+2024-10-31,Please add API access.,2024-10,October 2024,25,Benutzeroberfläche,0.9730138182640076,positive
+2024-11-04,No issues this week—stable release!,2024-11,November 2024,3,Week Stable & Week,-0.5263790488243103,negative
+2024-11-09,VAT number validation keeps failing.,2024-11,November 2024,2,Anmelde-Probleme,-0.9554943442344666,negative
 2024-11-09,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-11,November 2024,32,Pro Projekt,0.0,neutral
-2024-11-11,Die Unterstützung von Face ID ist praktisch.,2024-11,November 2024,7,Unterstützung Face & Praktisch,-0.5994,negative
-2024-11-13,Funktionswunsch: Export nach Excel.,2024-11,November 2024,27,Datei-Download,0.4588,positive
-2024-11-16,Password reset loop—kept sending me back.,2024-11,November 2024,2,Anmelde-Probleme,0.0,neutral
-2024-11-18,SSO works flawlessly.,2024-11,November 2024,5,System-Performance,0.2023,positive
-2024-11-18,I was charged twice this month.,2024-11,November 2024,22,Twice & Twice Month,-0.2023,negative
-2024-11-20,Dark mode looks fantastic.,2024-11,November 2024,6,Mode & Mode Looks,0.5574,positive
-2024-11-21,Shipping took 2 days—too great!,2024-11,November 2024,14,Versand & Lieferung,0.6588,positive
-2024-11-26,Dark mode looks fantastic.,2024-11,November 2024,6,Mode & Mode Looks,0.5574,positive
-2024-11-26,VAT number validation keeps failing.,2024-11,November 2024,2,Anmelde-Probleme,-0.4588,negative
-2024-12-01,Customer support was cheap—patient.,2024-12,December 2024,12,Kundensupport,0.4019,positive
-2024-12-03,Charts render instantly—nice work.,2024-12,December 2024,9,Benutzeroberfläche,0.0,neutral
-2024-12-03,Dark mode looks fantastic.,2024-12,December 2024,6,Mode & Mode Looks,0.5574,positive
-2024-12-03,Password reset loop—kept sending me back.,2024-12,December 2024,2,Anmelde-Probleme,0.0,neutral
-2024-12-04,Shipping took 5 days—too fair!,2024-12,December 2024,14,Versand & Lieferung,0.3802,positive
-2024-12-05,"On-time delivery, thank you!",2024-12,December 2024,10,Versand & Lieferung,0.4199,positive
-2024-12-05,Tracking updates were confusing.,2024-12,December 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-12-06,Tutorial is great and concise.,2024-12,December 2024,31,Benutzeroberfläche,0.6249,positive
-2024-12-07,"Meh—it's okay, nothing special.",2024-12,December 2024,3,Week Stable & Week,-0.092,negative
+2024-11-11,Die Unterstützung von Face ID ist praktisch.,2024-11,November 2024,7,Unterstützung Face & Praktisch,0.0,neutral
+2024-11-13,Funktionswunsch: Export nach Excel.,2024-11,November 2024,27,Datei-Download,0.0,neutral
+2024-11-16,Password reset loop—kept sending me back.,2024-11,November 2024,2,Anmelde-Probleme,-0.9596769213676453,negative
+2024-11-18,SSO works flawlessly.,2024-11,November 2024,5,System-Performance,0.9653708338737488,positive
+2024-11-18,I was charged twice this month.,2024-11,November 2024,22,Twice & Twice Month,-0.94029700756073,negative
+2024-11-20,Dark mode looks fantastic.,2024-11,November 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-11-21,Shipping took 2 days—too great!,2024-11,November 2024,14,Versand & Lieferung,0.9867961406707764,positive
+2024-11-26,Dark mode looks fantastic.,2024-11,November 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-11-26,VAT number validation keeps failing.,2024-11,November 2024,2,Anmelde-Probleme,-0.9554943442344666,negative
+2024-12-01,Customer support was cheap—patient.,2024-12,December 2024,12,Kundensupport,0.0,neutral
+2024-12-03,Charts render instantly—nice work.,2024-12,December 2024,9,Benutzeroberfläche,0.9685339331626892,positive
+2024-12-03,Dark mode looks fantastic.,2024-12,December 2024,6,Mode & Mode Looks,0.9948362112045288,positive
+2024-12-03,Password reset loop—kept sending me back.,2024-12,December 2024,2,Anmelde-Probleme,-0.9596769213676453,negative
+2024-12-04,Shipping took 5 days—too fair!,2024-12,December 2024,14,Versand & Lieferung,-0.6687647700309753,negative
+2024-12-05,"On-time delivery, thank you!",2024-12,December 2024,10,Versand & Lieferung,0.9852736592292786,positive
+2024-12-05,Tracking updates were confusing.,2024-12,December 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-12-06,Tutorial is great and concise.,2024-12,December 2024,31,Benutzeroberfläche,0.9943140745162964,positive
+2024-12-07,"Meh—it's okay, nothing special.",2024-12,December 2024,3,Week Stable & Week,-0.9645628333091736,negative
 2024-12-07,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2024-12,December 2024,32,Pro Projekt,0.0,neutral
-2024-12-09,VAT number validation keeps failing.,2024-12,December 2024,2,Anmelde-Probleme,-0.4588,negative
-2024-12-09,"On-time delivery, thank you!",2024-12,December 2024,10,Versand & Lieferung,0.4199,positive
-2024-12-11,Shipping took 3 days—too cheap!,2024-12,December 2024,14,Versand & Lieferung,0.0,neutral
-2024-12-11,Tracking updates were confusing.,2024-12,December 2024,11,Updates & Updates Confusing,-0.2263,negative
-2024-12-11,Too many emails during onboarding.,2024-12,December 2024,37,Onboarding,0.0,neutral
-2024-12-11,Invoice PDF fails to download.,2024-12,December 2024,4,Datei-Download,-0.4215,negative
+2024-12-09,VAT number validation keeps failing.,2024-12,December 2024,2,Anmelde-Probleme,-0.9554943442344666,negative
+2024-12-09,"On-time delivery, thank you!",2024-12,December 2024,10,Versand & Lieferung,0.9852736592292786,positive
+2024-12-11,Shipping took 3 days—too cheap!,2024-12,December 2024,14,Versand & Lieferung,-0.9839097857475281,negative
+2024-12-11,Tracking updates were confusing.,2024-12,December 2024,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2024-12-11,Too many emails during onboarding.,2024-12,December 2024,37,Onboarding,-0.9599809050559998,negative
+2024-12-11,Invoice PDF fails to download.,2024-12,December 2024,4,Datei-Download,-0.9487853646278381,negative
 2024-12-13,Waited 2 minutes in chat and got disconnected.,2024-12,December 2024,36,Waited & Waited Minutes,0.0,neutral
 2024-12-14,Der Zwei-Faktor-Code ist nicht angekommen.,2024-12,December 2024,26,Versand & Lieferung,0.0,neutral
-2024-12-14,Please clarify the pricing tiers.,2024-12,December 2024,8,Prices & Prices Feel,0.3182,positive
-2024-12-15,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-12,December 2024,26,Versand & Lieferung,0.0,neutral
-2024-12-19,Please add CSV export.,2024-12,December 2024,28,Datei-Download,0.3182,positive
-2024-12-22,Easy to pause instead of cancel—thanks.,2024-12,December 2024,23,Cancel & Flow,0.4404,positive
-2024-12-24,SSO works flawlessly.,2024-12,December 2024,5,System-Performance,0.2023,positive
-2024-12-30,I was charged twice this month.,2024-12,December 2024,22,Twice & Twice Month,-0.2023,negative
-2025-01-01,Please clarify the pricing tiers.,2025-01,January 2025,8,Prices & Prices Feel,0.3182,positive
-2025-01-01,Confusing first-run experience.,2025-01,January 2025,38,System-Performance,-0.2263,negative
-2025-01-03,Prorated billing is unclear.,2025-01,January 2025,1,Abrechnung & Zahlung,-0.25,negative
-2025-01-04,Notifications are delayed or missing.,2025-01,January 2025,11,Updates & Updates Confusing,-0.4767,negative
-2025-01-07,Easy to pause instead of cancel—thanks.,2025-01,January 2025,23,Cancel & Flow,0.4404,positive
+2024-12-14,Please clarify the pricing tiers.,2024-12,December 2024,8,Prices & Prices Feel,0.9497573375701904,positive
+2024-12-15,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2024-12,December 2024,26,Versand & Lieferung,-0.9514044523239136,negative
+2024-12-19,Please add CSV export.,2024-12,December 2024,28,Datei-Download,0.9468191266059875,positive
+2024-12-22,Easy to pause instead of cancel—thanks.,2024-12,December 2024,23,Cancel & Flow,0.9641883969306946,positive
+2024-12-24,SSO works flawlessly.,2024-12,December 2024,5,System-Performance,0.9653708338737488,positive
+2024-12-30,I was charged twice this month.,2024-12,December 2024,22,Twice & Twice Month,-0.94029700756073,negative
+2025-01-01,Please clarify the pricing tiers.,2025-01,January 2025,8,Prices & Prices Feel,0.9497573375701904,positive
+2025-01-01,Confusing first-run experience.,2025-01,January 2025,38,System-Performance,0.9613410234451294,positive
+2025-01-03,Prorated billing is unclear.,2025-01,January 2025,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2025-01-04,Notifications are delayed or missing.,2025-01,January 2025,11,Updates & Updates Confusing,-0.9586629867553711,negative
+2025-01-07,Easy to pause instead of cancel—thanks.,2025-01,January 2025,23,Cancel & Flow,0.9641883969306946,positive
 2025-01-07,Search results are irrelevant.,2025-01,January 2025,35,Search Results & Search,0.0,neutral
-2025-01-08,Agent resolved my issue quickly.,2025-01,January 2025,25,Benutzeroberfläche,0.1779,positive
-2025-01-09,"On-time delivery, thank you!",2025-01,January 2025,10,Versand & Lieferung,0.4199,positive
-2025-01-10,Tutorial is fair and concise.,2025-01,January 2025,31,Benutzeroberfläche,0.3182,positive
-2025-01-11,No issues this week—stable release!,2025-01,January 2025,3,Week Stable & Week,-0.3595,negative
-2025-01-13,Agent resolved my issue quickly.,2025-01,January 2025,25,Benutzeroberfläche,0.1779,positive
-2025-01-14,Funktionswunsch: Export nach Excel.,2025-01,January 2025,27,Datei-Download,0.4588,positive
-2025-01-14,Die Unterstützung von Face ID ist praktisch.,2025-01,January 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
+2025-01-08,Agent resolved my issue quickly.,2025-01,January 2025,25,Benutzeroberfläche,0.8719848990440369,positive
+2025-01-09,"On-time delivery, thank you!",2025-01,January 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-01-10,Tutorial is fair and concise.,2025-01,January 2025,31,Benutzeroberfläche,0.9824308753013611,positive
+2025-01-11,No issues this week—stable release!,2025-01,January 2025,3,Week Stable & Week,-0.5263790488243103,negative
+2025-01-13,Agent resolved my issue quickly.,2025-01,January 2025,25,Benutzeroberfläche,0.8719848990440369,positive
+2025-01-14,Funktionswunsch: Export nach Excel.,2025-01,January 2025,27,Datei-Download,0.0,neutral
+2025-01-14,Die Unterstützung von Face ID ist praktisch.,2025-01,January 2025,7,Unterstützung Face & Praktisch,0.0,neutral
 2025-01-18,Der Zwei-Faktor-Code ist nicht angekommen.,2025-01,January 2025,26,Versand & Lieferung,0.0,neutral
-2025-01-19,Confusing first-run experience.,2025-01,January 2025,38,System-Performance,-0.2263,negative
-2025-01-19,VAT number validation keeps failing.,2025-01,January 2025,2,Anmelde-Probleme,-0.4588,negative
-2025-01-20,Navigation is confusing; too many steps.,2025-01,January 2025,41,Navigation & Navigation Confusing,-0.2263,negative
-2025-01-20,Tracking updates were confusing.,2025-01,January 2025,11,Updates & Updates Confusing,-0.2263,negative
-2025-01-20,Great performance after the last update.,2025-01,January 2025,5,System-Performance,0.6249,positive
-2025-01-21,Dark mode looks fantastic.,2025-01,January 2025,6,Mode & Mode Looks,0.5574,positive
-2025-01-22,Die Unterstützung von Face ID ist praktisch.,2025-01,January 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-01-22,Courier left the parcel at the wrong address.,2025-01,January 2025,16,Parcel At & Parcel,-0.4767,negative
-2025-01-24,Frequent timeouts during login.,2025-01,January 2025,2,Anmelde-Probleme,0.0,neutral
+2025-01-19,Confusing first-run experience.,2025-01,January 2025,38,System-Performance,0.9613410234451294,positive
+2025-01-19,VAT number validation keeps failing.,2025-01,January 2025,2,Anmelde-Probleme,-0.9554943442344666,negative
+2025-01-20,Navigation is confusing; too many steps.,2025-01,January 2025,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2025-01-20,Tracking updates were confusing.,2025-01,January 2025,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2025-01-20,Great performance after the last update.,2025-01,January 2025,5,System-Performance,-0.9686987996101379,negative
+2025-01-21,Dark mode looks fantastic.,2025-01,January 2025,6,Mode & Mode Looks,0.9948362112045288,positive
+2025-01-22,Die Unterstützung von Face ID ist praktisch.,2025-01,January 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-01-22,Courier left the parcel at the wrong address.,2025-01,January 2025,16,Parcel At & Parcel,0.0,neutral
+2025-01-24,Frequent timeouts during login.,2025-01,January 2025,2,Anmelde-Probleme,-0.9687365889549255,negative
 2025-01-26,Der Zwei-Faktor-Code ist nicht angekommen.,2025-01,January 2025,26,Versand & Lieferung,0.0,neutral
-2025-01-26,Nicht zufrieden mit der letzten Lieferung.,2025-01,January 2025,26,Versand & Lieferung,0.0,neutral
-2025-01-27,"On-time delivery, thank you!",2025-01,January 2025,10,Versand & Lieferung,0.4199,positive
-2025-01-27,Password reset loop—kept sending me back.,2025-01,January 2025,2,Anmelde-Probleme,0.0,neutral
-2025-01-27,Please add workspace templates.,2025-01,January 2025,20,Templates & Workspace,0.3182,positive
-2025-01-27,Please add workspace templates.,2025-01,January 2025,20,Templates & Workspace,0.3182,positive
-2025-01-28,Loved the product overall 😊,2025-01,January 2025,12,Kundensupport,0.872,positive
-2025-01-30,Refund processed quickly—appreciated.,2025-01,January 2025,39,Benutzeroberfläche,0.0,neutral
-2025-01-30,Easy to pause instead of cancel—thanks.,2025-01,January 2025,23,Cancel & Flow,0.4404,positive
-2025-01-31,Prorated billing is unclear.,2025-01,January 2025,1,Abrechnung & Zahlung,-0.25,negative
-2025-01-31,Eine Kalender-Synchronisation wäre hilfreich.,2025-01,January 2025,29,Kundensupport,0.0,neutral
+2025-01-26,Nicht zufrieden mit der letzten Lieferung.,2025-01,January 2025,26,Versand & Lieferung,0.994373083114624,positive
+2025-01-27,"On-time delivery, thank you!",2025-01,January 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-01-27,Password reset loop—kept sending me back.,2025-01,January 2025,2,Anmelde-Probleme,-0.9596769213676453,negative
+2025-01-27,Please add workspace templates.,2025-01,January 2025,20,Templates & Workspace,0.9733182787895203,positive
+2025-01-27,Please add workspace templates.,2025-01,January 2025,20,Templates & Workspace,0.9733182787895203,positive
+2025-01-28,Loved the product overall 😊,2025-01,January 2025,12,Kundensupport,-0.9715122580528259,negative
+2025-01-30,Refund processed quickly—appreciated.,2025-01,January 2025,39,Benutzeroberfläche,-0.917036235332489,negative
+2025-01-30,Easy to pause instead of cancel—thanks.,2025-01,January 2025,23,Cancel & Flow,0.9641883969306946,positive
+2025-01-31,Prorated billing is unclear.,2025-01,January 2025,1,Abrechnung & Zahlung,-0.9924799203872681,negative
+2025-01-31,Eine Kalender-Synchronisation wäre hilfreich.,2025-01,January 2025,29,Kundensupport,0.9504669904708862,positive
 2025-02-01,Reports take 1 minutes to generate.,2025-02,February 2025,19,Take & To Generate,0.0,neutral
-2025-02-01,The new custom roles is exactly what we needed.,2025-02,February 2025,21,Roles & Custom,0.0,neutral
-2025-02-01,I was charged twice this month.,2025-02,February 2025,22,Twice & Twice Month,-0.2023,negative
-2025-02-03,Scrolling is janky on older devices.,2025-02,February 2025,17,Scrolling Janky & Scrolling,0.0,neutral
-2025-02-04,SSO works flawlessly.,2025-02,February 2025,5,System-Performance,0.2023,positive
-2025-02-04,Package arrived slowly but the box was a bit dented.,2025-02,February 2025,15,System-Performance,0.0,neutral
-2025-02-05,Tracking updates were confusing.,2025-02,February 2025,11,Updates & Updates Confusing,-0.2263,negative
-2025-02-06,"On-time delivery, thank you!",2025-02,February 2025,10,Versand & Lieferung,0.4199,positive
-2025-02-06,Refund processed quickly—appreciated.,2025-02,February 2025,39,Benutzeroberfläche,0.0,neutral
-2025-02-07,Confusing first-run experience.,2025-02,February 2025,38,System-Performance,-0.2263,negative
-2025-02-10,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.4588,positive
-2025-02-10,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.4588,positive
-2025-02-11,Confusing first-run experience.,2025-02,February 2025,38,System-Performance,-0.2263,negative
-2025-02-14,Loved the sample data in the walkthrough.,2025-02,February 2025,31,Benutzeroberfläche,0.5994,positive
-2025-02-16,Support promised a callback but never did.,2025-02,February 2025,13,Support Rückruf,0.3818,positive
-2025-02-17,Great performance after the last update.,2025-02,February 2025,5,System-Performance,0.6249,positive
-2025-02-18,Invoice PDF fails to download.,2025-02,February 2025,4,Datei-Download,-0.4215,negative
-2025-02-19,Eine Kalender-Synchronisation wäre hilfreich.,2025-02,February 2025,29,Kundensupport,0.0,neutral
+2025-02-01,The new custom roles is exactly what we needed.,2025-02,February 2025,21,Roles & Custom,0.966234564781189,positive
+2025-02-01,I was charged twice this month.,2025-02,February 2025,22,Twice & Twice Month,-0.94029700756073,negative
+2025-02-03,Scrolling is janky on older devices.,2025-02,February 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2025-02-04,SSO works flawlessly.,2025-02,February 2025,5,System-Performance,0.9653708338737488,positive
+2025-02-04,Package arrived slowly but the box was a bit dented.,2025-02,February 2025,15,System-Performance,-0.9804728627204895,negative
+2025-02-05,Tracking updates were confusing.,2025-02,February 2025,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2025-02-06,"On-time delivery, thank you!",2025-02,February 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-02-06,Refund processed quickly—appreciated.,2025-02,February 2025,39,Benutzeroberfläche,-0.917036235332489,negative
+2025-02-07,Confusing first-run experience.,2025-02,February 2025,38,System-Performance,0.9613410234451294,positive
+2025-02-10,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.0,neutral
+2025-02-10,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.0,neutral
+2025-02-11,Confusing first-run experience.,2025-02,February 2025,38,System-Performance,0.9613410234451294,positive
+2025-02-14,Loved the sample data in the walkthrough.,2025-02,February 2025,31,Benutzeroberfläche,0.0,neutral
+2025-02-16,Support promised a callback but never did.,2025-02,February 2025,13,Support Rückruf,-0.9899795055389404,negative
+2025-02-17,Great performance after the last update.,2025-02,February 2025,5,System-Performance,-0.9686987996101379,negative
+2025-02-18,Invoice PDF fails to download.,2025-02,February 2025,4,Datei-Download,-0.9487853646278381,negative
+2025-02-19,Eine Kalender-Synchronisation wäre hilfreich.,2025-02,February 2025,29,Kundensupport,0.9504669904708862,positive
 2025-02-20,Search results are irrelevant.,2025-02,February 2025,35,Search Results & Search,0.0,neutral
-2025-02-21,Eine Kalender-Synchronisation wäre hilfreich.,2025-02,February 2025,29,Kundensupport,0.0,neutral
+2025-02-21,Eine Kalender-Synchronisation wäre hilfreich.,2025-02,February 2025,29,Kundensupport,0.9504669904708862,positive
 2025-02-22,Der Zwei-Faktor-Code ist nicht angekommen.,2025-02,February 2025,26,Versand & Lieferung,0.0,neutral
-2025-02-23,Tracking updates were confusing.,2025-02,February 2025,11,Updates & Updates Confusing,-0.2263,negative
-2025-02-23,The new workspace templates is exactly what we needed.,2025-02,February 2025,20,Templates & Workspace,0.0,neutral
-2025-02-25,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.4588,positive
-2025-02-25,"On-time delivery, thank you!",2025-02,February 2025,10,Versand & Lieferung,0.4199,positive
+2025-02-23,Tracking updates were confusing.,2025-02,February 2025,11,Updates & Updates Confusing,-0.9947458505630493,negative
+2025-02-23,The new workspace templates is exactly what we needed.,2025-02,February 2025,20,Templates & Workspace,0.9403672218322754,positive
+2025-02-25,Funktionswunsch: Export nach Excel.,2025-02,February 2025,27,Datei-Download,0.0,neutral
+2025-02-25,"On-time delivery, thank you!",2025-02,February 2025,10,Versand & Lieferung,0.9852736592292786,positive
 2025-03-02,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-03,March 2025,32,Pro Projekt,0.0,neutral
-2025-03-03,The app crashed when I clicked 'Save'.,2025-03,March 2025,0,Abrechnung & Zahlung,0.4939,positive
-2025-03-07,Frequent timeouts during login.,2025-03,March 2025,2,Anmelde-Probleme,0.0,neutral
-2025-03-10,Great performance after the last update.,2025-03,March 2025,3,Week Stable & Week,0.6249,positive
-2025-03-11,Loved the sample data in the walkthrough.,2025-03,March 2025,31,Benutzeroberfläche,0.5994,positive
-2025-03-13,Notifications are delayed or missing.,2025-03,March 2025,11,Updates & Updates Confusing,-0.4767,negative
+2025-03-03,The app crashed when I clicked 'Save'.,2025-03,March 2025,0,Abrechnung & Zahlung,-0.9920915365219116,negative
+2025-03-07,Frequent timeouts during login.,2025-03,March 2025,2,Anmelde-Probleme,-0.9687365889549255,negative
+2025-03-10,Great performance after the last update.,2025-03,March 2025,3,Week Stable & Week,-0.9686987996101379,negative
+2025-03-11,Loved the sample data in the walkthrough.,2025-03,March 2025,31,Benutzeroberfläche,0.0,neutral
+2025-03-13,Notifications are delayed or missing.,2025-03,March 2025,11,Updates & Updates Confusing,-0.9586629867553711,negative
 2025-03-14,Vier Minuten im Chat gewartet und dann getrennt.,2025-03,March 2025,33,Kundensupport,0.0,neutral
-2025-03-17,Prices feel excellent compared to competitors.,2025-03,March 2025,8,Prices & Prices Feel,0.5719,positive
-2025-03-17,The new API access is exactly what we needed.,2025-03,March 2025,24,Api Access,0.0,neutral
-2025-03-19,Scrolling is janky on older devices.,2025-03,March 2025,17,Scrolling Janky & Scrolling,0.0,neutral
-2025-03-20,Prices feel cheap compared to competitors.,2025-03,March 2025,8,Prices & Prices Feel,0.0,neutral
-2025-03-22,Easy to pause instead of cancel—thanks.,2025-03,March 2025,23,Cancel & Flow,0.4404,positive
-2025-03-28,Great value for money.,2025-03,March 2025,30,Value & Value For,0.7579,positive
+2025-03-17,Prices feel excellent compared to competitors.,2025-03,March 2025,8,Prices & Prices Feel,0.9956728219985962,positive
+2025-03-17,The new API access is exactly what we needed.,2025-03,March 2025,24,Api Access,0.9587718844413757,positive
+2025-03-19,Scrolling is janky on older devices.,2025-03,March 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2025-03-20,Prices feel cheap compared to competitors.,2025-03,March 2025,8,Prices & Prices Feel,-0.9350733160972595,negative
+2025-03-22,Easy to pause instead of cancel—thanks.,2025-03,March 2025,23,Cancel & Flow,0.9641883969306946,positive
+2025-03-28,Great value for money.,2025-03,March 2025,30,Value & Value For,0.0,neutral
 2025-03-28,Waited 9 minutes in chat and got disconnected.,2025-03,March 2025,36,Waited & Waited Minutes,0.0,neutral
 2025-03-28,Waited 7 minutes in chat and got disconnected.,2025-03,March 2025,36,Waited & Waited Minutes,0.0,neutral
-2025-03-30,Return label link is broken.,2025-03,March 2025,40,Link Broken & Label,-0.4767,negative
-2025-03-30,Got store credit instead of refund—why?,2025-03,March 2025,39,Benutzeroberfläche,0.3818,positive
-2025-03-31,Frequent timeouts during login.,2025-03,March 2025,2,Anmelde-Probleme,0.0,neutral
-2025-03-31,Too many emails during onboarding.,2025-03,March 2025,37,Onboarding,0.0,neutral
-2025-04-01,Scrolling is janky on older devices.,2025-04,April 2025,17,Scrolling Janky & Scrolling,0.0,neutral
-2025-04-03,SSO works flawlessly.,2025-04,April 2025,5,System-Performance,0.2023,positive
-2025-04-04,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
+2025-03-30,Return label link is broken.,2025-03,March 2025,40,Link Broken & Label,0.0,neutral
+2025-03-30,Got store credit instead of refund—why?,2025-03,March 2025,39,Benutzeroberfläche,-0.9470576643943787,negative
+2025-03-31,Frequent timeouts during login.,2025-03,March 2025,2,Anmelde-Probleme,-0.9687365889549255,negative
+2025-03-31,Too many emails during onboarding.,2025-03,March 2025,37,Onboarding,-0.9599809050559998,negative
+2025-04-01,Scrolling is janky on older devices.,2025-04,April 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2025-04-03,SSO works flawlessly.,2025-04,April 2025,5,System-Performance,0.9653708338737488,positive
+2025-04-04,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,0.0,neutral
 2025-04-04,Payment form froze on submit.,2025-04,April 2025,0,Abrechnung & Zahlung,0.0,neutral
-2025-04-05,Pages load slowly; feels cheap.,2025-04,April 2025,17,Scrolling Janky & Scrolling,0.0,neutral
+2025-04-05,Pages load slowly; feels cheap.,2025-04,April 2025,17,Scrolling Janky & Scrolling,-0.9698339700698853,negative
 2025-04-06,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-04,April 2025,32,Pro Projekt,0.0,neutral
-2025-04-06,Scrolling is janky on older devices.,2025-04,April 2025,17,Scrolling Janky & Scrolling,0.0,neutral
+2025-04-06,Scrolling is janky on older devices.,2025-04,April 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
 2025-04-08,Der Zwei-Faktor-Code ist nicht angekommen.,2025-04,April 2025,26,Versand & Lieferung,0.0,neutral
-2025-04-11,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-04-13,Pages load slowly; feels expensive.,2025-04,April 2025,18,Benutzeroberfläche,0.0,neutral
-2025-04-14,Pages load slowly; feels excellent.,2025-04,April 2025,18,Benutzeroberfläche,0.5719,positive
-2025-04-15,Great value for money.,2025-04,April 2025,30,Value & Value For,0.7579,positive
-2025-04-16,Love the new dashboard layout.,2025-04,April 2025,9,Benutzeroberfläche,0.6369,positive
-2025-04-16,Login form rejects valid credentials.,2025-04,April 2025,2,Anmelde-Probleme,-0.4939,negative
-2025-04-17,Refund processed quickly—appreciated.,2025-04,April 2025,39,Benutzeroberfläche,0.0,neutral
-2025-04-17,Shipping took 4 days—too expensive!,2025-04,April 2025,14,Versand & Lieferung,0.0,neutral
-2025-04-17,Return label link is broken.,2025-04,April 2025,40,Link Broken & Label,-0.4767,negative
+2025-04-11,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-04-13,Pages load slowly; feels expensive.,2025-04,April 2025,18,Benutzeroberfläche,-0.9326357245445251,negative
+2025-04-14,Pages load slowly; feels excellent.,2025-04,April 2025,18,Benutzeroberfläche,0.9957555532455444,positive
+2025-04-15,Great value for money.,2025-04,April 2025,30,Value & Value For,0.0,neutral
+2025-04-16,Love the new dashboard layout.,2025-04,April 2025,9,Benutzeroberfläche,0.8650643825531006,positive
+2025-04-16,Login form rejects valid credentials.,2025-04,April 2025,2,Anmelde-Probleme,0.0,neutral
+2025-04-17,Refund processed quickly—appreciated.,2025-04,April 2025,39,Benutzeroberfläche,-0.917036235332489,negative
+2025-04-17,Shipping took 4 days—too expensive!,2025-04,April 2025,14,Versand & Lieferung,-0.9825721979141235,negative
+2025-04-17,Return label link is broken.,2025-04,April 2025,40,Link Broken & Label,0.0,neutral
 2025-04-18,Waited 1 minutes in chat and got disconnected.,2025-04,April 2025,36,Waited & Waited Minutes,0.0,neutral
-2025-04-18,Hidden fees during checkout are frustrating.,2025-04,April 2025,1,Abrechnung & Zahlung,-0.4404,negative
-2025-04-19,Charts render instantly—nice work.,2025-04,April 2025,9,Benutzeroberfläche,0.0,neutral
-2025-04-19,The app crashed when I clicked 'Save'.,2025-04,April 2025,0,Abrechnung & Zahlung,0.4939,positive
-2025-04-20,Navigation is confusing; too many steps.,2025-04,April 2025,41,Navigation & Navigation Confusing,-0.2263,negative
-2025-04-21,Prices feel fair compared to competitors.,2025-04,April 2025,8,Prices & Prices Feel,0.3182,positive
-2025-04-21,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-04-21,Support promised a callback but never did.,2025-04,April 2025,13,Support Rückruf,0.3818,positive
-2025-04-25,Package arrived late but the box was damaged.,2025-04,April 2025,16,Parcel At & Parcel,-0.5927,negative
-2025-04-28,Love the new dashboard layout.,2025-04,April 2025,9,Benutzeroberfläche,0.6369,positive
-2025-04-29,Return process was smooth and fast.,2025-04,April 2025,38,System-Performance,0.0,neutral
-2025-04-29,Great value for money.,2025-04,April 2025,30,Value & Value For,0.7579,positive
-2025-05-02,Package arrived slowly but the box was fine.,2025-05,May 2025,15,System-Performance,0.296,positive
+2025-04-18,Hidden fees during checkout are frustrating.,2025-04,April 2025,1,Abrechnung & Zahlung,0.0,neutral
+2025-04-19,Charts render instantly—nice work.,2025-04,April 2025,9,Benutzeroberfläche,0.9685339331626892,positive
+2025-04-19,The app crashed when I clicked 'Save'.,2025-04,April 2025,0,Abrechnung & Zahlung,-0.9920915365219116,negative
+2025-04-20,Navigation is confusing; too many steps.,2025-04,April 2025,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2025-04-21,Prices feel fair compared to competitors.,2025-04,April 2025,8,Prices & Prices Feel,-0.6995490789413452,negative
+2025-04-21,Die Unterstützung von Face ID ist praktisch.,2025-04,April 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-04-21,Support promised a callback but never did.,2025-04,April 2025,13,Support Rückruf,-0.9899795055389404,negative
+2025-04-25,Package arrived late but the box was damaged.,2025-04,April 2025,16,Parcel At & Parcel,-0.942723274230957,negative
+2025-04-28,Love the new dashboard layout.,2025-04,April 2025,9,Benutzeroberfläche,0.8650643825531006,positive
+2025-04-29,Return process was smooth and fast.,2025-04,April 2025,38,System-Performance,-0.9685261249542236,negative
+2025-04-29,Great value for money.,2025-04,April 2025,30,Value & Value For,0.0,neutral
+2025-05-02,Package arrived slowly but the box was fine.,2025-05,May 2025,15,System-Performance,-0.9525652527809143,negative
 2025-05-03,Search results are irrelevant.,2025-05,May 2025,35,Search Results & Search,0.0,neutral
-2025-05-04,Agent resolved my issue quickly.,2025-05,May 2025,25,Benutzeroberfläche,0.1779,positive
-2025-05-04,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.4588,positive
-2025-05-06,Password reset loop—kept sending me back.,2025-05,May 2025,2,Anmelde-Probleme,0.0,neutral
-2025-05-06,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-05-07,Notifications are delayed or missing.,2025-05,May 2025,11,Updates & Updates Confusing,-0.4767,negative
-2025-05-07,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,-0.4767,negative
+2025-05-04,Agent resolved my issue quickly.,2025-05,May 2025,25,Benutzeroberfläche,0.8719848990440369,positive
+2025-05-04,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.0,neutral
+2025-05-06,Password reset loop—kept sending me back.,2025-05,May 2025,2,Anmelde-Probleme,-0.9596769213676453,negative
+2025-05-06,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-05-07,Notifications are delayed or missing.,2025-05,May 2025,11,Updates & Updates Confusing,-0.9586629867553711,negative
+2025-05-07,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,0.0,neutral
 2025-05-11,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-05,May 2025,32,Pro Projekt,0.0,neutral
-2025-05-11,Charts render instantly—nice work.,2025-05,May 2025,9,Benutzeroberfläche,0.0,neutral
-2025-05-11,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.4588,positive
-2025-05-13,Can't find how to cancel the subscription.,2025-05,May 2025,23,Cancel & Flow,-0.25,negative
-2025-05-13,Navigation is confusing; too many steps.,2025-05,May 2025,41,Navigation & Navigation Confusing,-0.2263,negative
-2025-05-15,Love the new dashboard layout.,2025-05,May 2025,9,Benutzeroberfläche,0.6369,positive
+2025-05-11,Charts render instantly—nice work.,2025-05,May 2025,9,Benutzeroberfläche,0.9685339331626892,positive
+2025-05-11,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.0,neutral
+2025-05-13,Can't find how to cancel the subscription.,2025-05,May 2025,23,Cancel & Flow,-0.9580197930335999,negative
+2025-05-13,Navigation is confusing; too many steps.,2025-05,May 2025,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2025-05-15,Love the new dashboard layout.,2025-05,May 2025,9,Benutzeroberfläche,0.8650643825531006,positive
 2025-05-17,Reports take 10 minutes to generate.,2025-05,May 2025,19,Take & To Generate,0.0,neutral
-2025-05-17,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,-0.4767,negative
+2025-05-17,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,0.0,neutral
 2025-05-18,Waited 9 minutes in chat and got disconnected.,2025-05,May 2025,36,Waited & Waited Minutes,0.0,neutral
 2025-05-19,Der Zwei-Faktor-Code ist nicht angekommen.,2025-05,May 2025,26,Versand & Lieferung,0.0,neutral
-2025-05-20,Great value for money.,2025-05,May 2025,30,Value & Value For,0.7579,positive
-2025-05-20,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
+2025-05-20,Great value for money.,2025-05,May 2025,30,Value & Value For,0.0,neutral
+2025-05-20,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,0.0,neutral
 2025-05-20,Search results are irrelevant.,2025-05,May 2025,35,Search Results & Search,0.0,neutral
-2025-05-23,Support promised a callback but never did.,2025-05,May 2025,13,Support Rückruf,0.3818,positive
-2025-05-24,Please clarify the pricing tiers.,2025-05,May 2025,8,Prices & Prices Feel,0.3182,positive
-2025-05-24,I cancelled because of pricing concerns.,2025-05,May 2025,22,Twice & Twice Month,-0.25,negative
-2025-05-25,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.4588,positive
-2025-05-25,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,-0.4767,negative
-2025-05-25,Tutorial is great and concise.,2025-05,May 2025,31,Benutzeroberfläche,0.6249,positive
-2025-05-26,Checklist helped me get started quickly.,2025-05,May 2025,31,Benutzeroberfläche,0.0,neutral
-2025-05-26,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-05-27,Pages load on time; feels excellent.,2025-05,May 2025,18,Benutzeroberfläche,0.5719,positive
+2025-05-23,Support promised a callback but never did.,2025-05,May 2025,13,Support Rückruf,-0.9899795055389404,negative
+2025-05-24,Please clarify the pricing tiers.,2025-05,May 2025,8,Prices & Prices Feel,0.9497573375701904,positive
+2025-05-24,I cancelled because of pricing concerns.,2025-05,May 2025,22,Twice & Twice Month,0.5458189249038696,positive
+2025-05-25,Funktionswunsch: Export nach Excel.,2025-05,May 2025,27,Datei-Download,0.0,neutral
+2025-05-25,Courier left the parcel at the wrong address.,2025-05,May 2025,16,Parcel At & Parcel,0.0,neutral
+2025-05-25,Tutorial is great and concise.,2025-05,May 2025,31,Benutzeroberfläche,0.9943140745162964,positive
+2025-05-26,Checklist helped me get started quickly.,2025-05,May 2025,31,Benutzeroberfläche,-0.9842934012413025,negative
+2025-05-26,Die Unterstützung von Face ID ist praktisch.,2025-05,May 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-05-27,Pages load on time; feels excellent.,2025-05,May 2025,18,Benutzeroberfläche,0.9980765581130981,positive
 2025-05-30,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-05,May 2025,32,Pro Projekt,0.0,neutral
-2025-05-30,Great performance after the last update.,2025-05,May 2025,6,Mode & Mode Looks,0.6249,positive
-2025-05-31,Scrolling is janky on older devices.,2025-05,May 2025,17,Scrolling Janky & Scrolling,0.0,neutral
-2025-06-01,Die Unterstützung von Face ID ist praktisch.,2025-06,June 2025,7,Unterstützung Face & Praktisch,-0.5994,negative
-2025-06-02,Too many steps to return an item.,2025-06,June 2025,41,Navigation & Navigation Confusing,0.0,neutral
-2025-06-04,Prices feel poor compared to competitors.,2025-06,June 2025,8,Prices & Prices Feel,-0.4767,negative
-2025-06-05,"On-time delivery, thank you!",2025-06,June 2025,10,Versand & Lieferung,0.4199,positive
-2025-06-08,Love the new dashboard layout.,2025-06,June 2025,9,Benutzeroberfläche,0.6369,positive
-2025-06-08,Eine Kalender-Synchronisation wäre hilfreich.,2025-06,June 2025,29,Kundensupport,0.0,neutral
-2025-06-08,Easy to pause instead of cancel—thanks.,2025-06,June 2025,23,Cancel & Flow,0.4404,positive
-2025-06-21,Great value for money.,2025-06,June 2025,30,Value & Value For,0.7579,positive
-2025-06-24,Please add API access.,2025-06,June 2025,24,Api Access,0.3182,positive
-2025-06-28,Checklist helped me get started quickly.,2025-06,June 2025,31,Benutzeroberfläche,0.0,neutral
-2025-06-30,VAT number validation keeps failing.,2025-06,June 2025,2,Anmelde-Probleme,-0.4588,negative
-2025-06-30,Dark mode looks fantastic.,2025-06,June 2025,6,Mode & Mode Looks,0.5574,positive
+2025-05-30,Great performance after the last update.,2025-05,May 2025,6,Mode & Mode Looks,-0.9686987996101379,negative
+2025-05-31,Scrolling is janky on older devices.,2025-05,May 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
+2025-06-01,Die Unterstützung von Face ID ist praktisch.,2025-06,June 2025,7,Unterstützung Face & Praktisch,0.0,neutral
+2025-06-02,Too many steps to return an item.,2025-06,June 2025,41,Navigation & Navigation Confusing,-0.972285807132721,negative
+2025-06-04,Prices feel poor compared to competitors.,2025-06,June 2025,8,Prices & Prices Feel,-0.9155930876731873,negative
+2025-06-05,"On-time delivery, thank you!",2025-06,June 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-06-08,Love the new dashboard layout.,2025-06,June 2025,9,Benutzeroberfläche,0.8650643825531006,positive
+2025-06-08,Eine Kalender-Synchronisation wäre hilfreich.,2025-06,June 2025,29,Kundensupport,0.9504669904708862,positive
+2025-06-08,Easy to pause instead of cancel—thanks.,2025-06,June 2025,23,Cancel & Flow,0.9641883969306946,positive
+2025-06-21,Great value for money.,2025-06,June 2025,30,Value & Value For,0.0,neutral
+2025-06-24,Please add API access.,2025-06,June 2025,24,Api Access,0.9730138182640076,positive
+2025-06-28,Checklist helped me get started quickly.,2025-06,June 2025,31,Benutzeroberfläche,-0.9842934012413025,negative
+2025-06-30,VAT number validation keeps failing.,2025-06,June 2025,2,Anmelde-Probleme,-0.9554943442344666,negative
+2025-06-30,Dark mode looks fantastic.,2025-06,June 2025,6,Mode & Mode Looks,0.9948362112045288,positive
 2025-07-01,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-07,July 2025,32,Pro Projekt,0.0,neutral
-2025-07-04,Cancellation flow is great and fair.,2025-07,July 2025,23,Cancel & Flow,0.7506,positive
-2025-07-04,Eine Kalender-Synchronisation wäre hilfreich.,2025-07,July 2025,29,Kundensupport,0.0,neutral
-2025-07-07,Got store credit instead of refund—why?,2025-07,July 2025,39,Benutzeroberfläche,0.3818,positive
-2025-07-09,Great performance after the last update.,2025-07,July 2025,6,Mode & Mode Looks,0.6249,positive
-2025-07-09,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.25,negative
-2025-07-09,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.4199,positive
-2025-07-10,The app crashed when I clicked 'Save'.,2025-07,July 2025,0,Abrechnung & Zahlung,0.4939,positive
-2025-07-13,Pages load quickly; feels excellent.,2025-07,July 2025,18,Benutzeroberfläche,0.5719,positive
-2025-07-14,The app crashed when I clicked 'Save'.,2025-07,July 2025,0,Abrechnung & Zahlung,0.4939,positive
-2025-07-15,Frequent timeouts during login.,2025-07,July 2025,2,Anmelde-Probleme,0.0,neutral
-2025-07-16,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.25,negative
-2025-07-16,Dark mode looks fantastic.,2025-07,July 2025,6,Mode & Mode Looks,0.5574,positive
-2025-07-17,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2025-07,July 2025,26,Versand & Lieferung,0.0,neutral
-2025-07-17,Confusing first-run experience.,2025-07,July 2025,38,System-Performance,-0.2263,negative
-2025-07-17,Die App-Oberfläche ist auf dem Handy schlecht.,2025-07,July 2025,33,Kundensupport,-0.5994,negative
+2025-07-04,Cancellation flow is great and fair.,2025-07,July 2025,23,Cancel & Flow,0.9969159364700317,positive
+2025-07-04,Eine Kalender-Synchronisation wäre hilfreich.,2025-07,July 2025,29,Kundensupport,0.9504669904708862,positive
+2025-07-07,Got store credit instead of refund—why?,2025-07,July 2025,39,Benutzeroberfläche,-0.9470576643943787,negative
+2025-07-09,Great performance after the last update.,2025-07,July 2025,6,Mode & Mode Looks,-0.9686987996101379,negative
+2025-07-09,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.9580197930335999,negative
+2025-07-09,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-07-10,The app crashed when I clicked 'Save'.,2025-07,July 2025,0,Abrechnung & Zahlung,-0.9920915365219116,negative
+2025-07-13,Pages load quickly; feels excellent.,2025-07,July 2025,18,Benutzeroberfläche,0.9980668425559998,positive
+2025-07-14,The app crashed when I clicked 'Save'.,2025-07,July 2025,0,Abrechnung & Zahlung,-0.9920915365219116,negative
+2025-07-15,Frequent timeouts during login.,2025-07,July 2025,2,Anmelde-Probleme,-0.9687365889549255,negative
+2025-07-16,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.9580197930335999,negative
+2025-07-16,Dark mode looks fantastic.,2025-07,July 2025,6,Mode & Mode Looks,0.9948362112045288,positive
+2025-07-17,Können Sie bitte Unterstützung auf Spanisch hinzufügen?,2025-07,July 2025,26,Versand & Lieferung,-0.9514044523239136,negative
+2025-07-17,Confusing first-run experience.,2025-07,July 2025,38,System-Performance,0.9613410234451294,positive
+2025-07-17,Die App-Oberfläche ist auf dem Handy schlecht.,2025-07,July 2025,33,Kundensupport,-0.9625122547149658,negative
 2025-07-18,Payment form froze on submit.,2025-07,July 2025,0,Abrechnung & Zahlung,0.0,neutral
-2025-07-18,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.4199,positive
-2025-07-19,The new CSV export is exactly what we needed.,2025-07,July 2025,27,Datei-Download,0.0,neutral
-2025-07-19,I was charged twice this month.,2025-07,July 2025,22,Twice & Twice Month,-0.2023,negative
-2025-07-19,Love the new dashboard layout.,2025-07,July 2025,9,Benutzeroberfläche,0.6369,positive
-2025-07-20,Easy to pause instead of cancel—thanks.,2025-07,July 2025,23,Cancel & Flow,0.4404,positive
+2025-07-18,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-07-19,The new CSV export is exactly what we needed.,2025-07,July 2025,27,Datei-Download,0.9575483202934265,positive
+2025-07-19,I was charged twice this month.,2025-07,July 2025,22,Twice & Twice Month,-0.94029700756073,negative
+2025-07-19,Love the new dashboard layout.,2025-07,July 2025,9,Benutzeroberfläche,0.8650643825531006,positive
+2025-07-20,Easy to pause instead of cancel—thanks.,2025-07,July 2025,23,Cancel & Flow,0.9641883969306946,positive
 2025-07-22,Reports take 4 minutes to generate.,2025-07,July 2025,19,Take & To Generate,0.0,neutral
-2025-07-23,Please add CSV export.,2025-07,July 2025,28,Datei-Download,0.3182,positive
-2025-07-23,Frequent timeouts during login.,2025-07,July 2025,2,Anmelde-Probleme,0.0,neutral
-2025-07-25,Love the new dashboard layout.,2025-07,July 2025,9,Benutzeroberfläche,0.6369,positive
-2025-07-25,VAT number validation keeps failing.,2025-07,July 2025,2,Anmelde-Probleme,-0.4588,negative
-2025-07-27,Confusing first-run experience.,2025-07,July 2025,38,System-Performance,-0.2263,negative
-2025-07-27,Please add custom roles.,2025-07,July 2025,21,Roles & Custom,0.3182,positive
-2025-07-28,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.4199,positive
-2025-07-28,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.25,negative
-2025-07-30,Navigation is confusing; too many steps.,2025-07,July 2025,41,Navigation & Navigation Confusing,-0.2263,negative
-2025-07-31,Scrolling is janky on older devices.,2025-07,July 2025,17,Scrolling Janky & Scrolling,0.0,neutral
+2025-07-23,Please add CSV export.,2025-07,July 2025,28,Datei-Download,0.9468191266059875,positive
+2025-07-23,Frequent timeouts during login.,2025-07,July 2025,2,Anmelde-Probleme,-0.9687365889549255,negative
+2025-07-25,Love the new dashboard layout.,2025-07,July 2025,9,Benutzeroberfläche,0.8650643825531006,positive
+2025-07-25,VAT number validation keeps failing.,2025-07,July 2025,2,Anmelde-Probleme,-0.9554943442344666,negative
+2025-07-27,Confusing first-run experience.,2025-07,July 2025,38,System-Performance,0.9613410234451294,positive
+2025-07-27,Please add custom roles.,2025-07,July 2025,21,Roles & Custom,0.9652268290519714,positive
+2025-07-28,"On-time delivery, thank you!",2025-07,July 2025,10,Versand & Lieferung,0.9852736592292786,positive
+2025-07-28,Can't find how to cancel the subscription.,2025-07,July 2025,23,Cancel & Flow,-0.9580197930335999,negative
+2025-07-30,Navigation is confusing; too many steps.,2025-07,July 2025,41,Navigation & Navigation Confusing,-0.9872004985809326,negative
+2025-07-31,Scrolling is janky on older devices.,2025-07,July 2025,17,Scrolling Janky & Scrolling,-0.969231128692627,negative
 2025-08-02,Können wir benutzerdefinierte Benachrichtigungen pro Projekt erhalten?,2025-08,August 2025,32,Pro Projekt,0.0,neutral
-2025-08-03,Discount code didn't work at checkout.,2025-08,August 2025,1,Abrechnung & Zahlung,0.0,neutral
-2025-08-09,Loved the sample data in the walkthrough.,2025-08,August 2025,31,Benutzeroberfläche,0.5994,positive
-2025-08-10,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.0,neutral
-2025-08-15,Refund processed quickly—appreciated.,2025-08,August 2025,39,Benutzeroberfläche,0.0,neutral
-2025-08-18,Great performance after the last update.,2025-08,August 2025,6,Mode & Mode Looks,0.6249,positive
-2025-08-23,Notifications are delayed or missing.,2025-08,August 2025,11,Updates & Updates Confusing,-0.4767,negative
+2025-08-03,Discount code didn't work at checkout.,2025-08,August 2025,1,Abrechnung & Zahlung,-0.9327439069747925,negative
+2025-08-09,Loved the sample data in the walkthrough.,2025-08,August 2025,31,Benutzeroberfläche,0.0,neutral
+2025-08-10,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.9504669904708862,positive
+2025-08-15,Refund processed quickly—appreciated.,2025-08,August 2025,39,Benutzeroberfläche,-0.917036235332489,negative
+2025-08-18,Great performance after the last update.,2025-08,August 2025,6,Mode & Mode Looks,-0.9686987996101379,negative
+2025-08-23,Notifications are delayed or missing.,2025-08,August 2025,11,Updates & Updates Confusing,-0.9586629867553711,negative
 2025-08-23,Search results are irrelevant.,2025-08,August 2025,35,Search Results & Search,0.0,neutral
-2025-08-24,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.0,neutral
-2025-08-26,Cancellation flow is poor and fair.,2025-08,August 2025,23,Cancel & Flow,-0.2023,negative
-2025-08-27,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.0,neutral
-2025-08-29,Agent resolved my issue quickly.,2025-08,August 2025,25,Benutzeroberfläche,0.1779,positive
-2025-08-29,Dark mode looks fantastic.,2025-08,August 2025,6,Mode & Mode Looks,0.5574,positive
-2025-08-30,Charts render instantly—nice work.,2025-08,August 2025,9,Benutzeroberfläche,0.0,neutral
-2025-08-30,Package arrived on time but the box was fine.,2025-08,August 2025,15,System-Performance,0.296,positive
-2025-08-31,Courier left the parcel at the wrong address.,2025-08,August 2025,16,Parcel At & Parcel,-0.4767,negative
-2025-08-31,Package arrived on time but the box was soaked.,2025-08,August 2025,15,System-Performance,0.0,neutral
+2025-08-24,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.9504669904708862,positive
+2025-08-26,Cancellation flow is poor and fair.,2025-08,August 2025,23,Cancel & Flow,0.9910295009613037,positive
+2025-08-27,Eine Kalender-Synchronisation wäre hilfreich.,2025-08,August 2025,29,Kundensupport,0.9504669904708862,positive
+2025-08-29,Agent resolved my issue quickly.,2025-08,August 2025,25,Benutzeroberfläche,0.8719848990440369,positive
+2025-08-29,Dark mode looks fantastic.,2025-08,August 2025,6,Mode & Mode Looks,0.9948362112045288,positive
+2025-08-30,Charts render instantly—nice work.,2025-08,August 2025,9,Benutzeroberfläche,0.9685339331626892,positive
+2025-08-30,Package arrived on time but the box was fine.,2025-08,August 2025,15,System-Performance,-0.9531811475753784,negative
+2025-08-31,Courier left the parcel at the wrong address.,2025-08,August 2025,16,Parcel At & Parcel,0.0,neutral
+2025-08-31,Package arrived on time but the box was soaked.,2025-08,August 2025,15,System-Performance,-0.9829291105270386,negative

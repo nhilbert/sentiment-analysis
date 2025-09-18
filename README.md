@@ -14,7 +14,7 @@ Dieses System analysiert deutsches Kundenfeedback automatisch und identifiziert:
 ### Wie funktioniert es?
 1. **Text-Embeddings**: Umwandlung der Texte in numerische Vektoren mit SentenceTransformers
 2. **Clustering**: Gruppierung ähnlicher Nachrichten mit HDBSCAN-Algorithmus
-3. **Sentiment-Analyse**: Bewertung der Stimmung mit VADER (optimiert für Deutsch)
+3. **Sentiment-Analyse**: Bewertung der Stimmung mit German BERT (optimiert für Deutsch)
 4. **Visualisierung**: Automatische Erstellung von Diagrammen und Dashboards
 
 ### Was können Sie erwarten?
@@ -79,3 +79,38 @@ Die Analyse erstellt folgende Ausgabedateien im `output/` Ordner:
 ```bash
 deactivate
 ```
+
+## Beispiel-Ergebnisse
+
+Nach der Analyse erhalten Sie:
+
+**Sentiment-Verteilung:**
+- 😊 Positive Nachrichten: 32%
+- 😐 Neutrale Nachrichten: 28%
+- 😞 Negative Nachrichten: 40%
+
+**Top Themen:**
+1. Anmelde-Probleme (29 Nachrichten, -0.763 Sentiment)
+2. Versand & Lieferung (21 Nachrichten, 0.010 Sentiment)
+3. Benutzeroberfläche (18 Nachrichten, 0.905 Sentiment)
+
+## Technische Anforderungen
+
+**Minimal:**
+- Python 3.8+
+- 4GB RAM
+- 1GB freier Speicherplatz
+
+**Empfohlen:**
+- Python 3.9+
+- 8GB RAM
+- GPU für schnellere Verarbeitung (optional)
+
+## Support
+
+Bei Fragen oder Problemen:
+1. Prüfen Sie die Log-Datei `feedback_analysis.log`
+2. Stellen Sie sicher, dass alle Abhängigkeiten installiert sind
+3. Überprüfen Sie das Datenformat (date + feedback Spalten)
+
+Das System erkennt automatisch verfügbare Pakete und passt sich entsprechend an - es funktioniert auch mit minimaler Installation.

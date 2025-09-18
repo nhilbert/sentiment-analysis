@@ -91,7 +91,8 @@ class GermanFeedbackAnalyzer:
             'nltk': 'nltk',
             'matplotlib': 'matplotlib',
             'seaborn': 'seaborn',
-            'openpyxl': 'openpyxl'
+            'openpyxl': 'openpyxl',
+            'transformers': 'transformers'
         }
         
         for capability, module_name in test_imports.items():
@@ -656,12 +657,88 @@ class GermanFeedbackAnalyzer:
         Returns:
             Tuple[List[float], List[str]]: Sentiment scores and categories
         """
-        if self.capabilities['vader']:
-            logger.info("Performing VADER sentiment analysis")
-            return self._vader_sentiment_analysis(texts)
-        else:
-            logger.info("Performing rule-based German sentiment analysis")
-            return self._german_sentiment_analysis(texts)
+        # Try German BERT model first
+        try:
+            from transformers import pipeline
+            logger.info("Using German BERT sentiment analysis")
+            return self._german_bert_sentiment_analysis(texts)
+        except ImportError:
+            if self.capabilities['vader']:
+                logger.info("Performing enhanced VADER sentiment analysis")
+                return self._enhanced_vader_sentiment_analysis(texts)
+            else:
+                logger.info("Performing rule-based German sentiment analysis")
+                return self._german_sentiment_analysis(texts)
+    
+    def _german_bert_sentiment_analysis(self, texts: List[str]) -> Tuple[List[float], List[str]]:
+        """German BERT-based sentiment analysis."""
+        from transformers import pipeline
+        
+        classifier = pipeline("sentiment-analysis", 
+                            model="oliverguhr/german-sentiment-bert",
+                            return_all_scores=True)
+        
+        scores = []
+        categories = []
+        
+        for text in texts:
+            try:
+                result = classifier(text or "")
+                pos_score = next(r['score'] for r in result if r['label'] == 'POSITIVE')
+                neg_score = next(r['score'] for r in result if r['label'] == 'NEGATIVE')
+                
+                compound_score = pos_score - neg_score
+                scores.append(compound_score)
+                
+                if compound_score >= 0.1:
+                    categories.append("positive")
+                elif compound_score <= -0.1:
+                    categories.append("negative")
+                else:
+                    categories.append("neutral")
+            except Exception:
+                scores.append(0.0)
+                categories.append("neutral")
+        
+        return scores, categories
+    
+    def _enhanced_vader_sentiment_analysis(self, texts: List[str]) -> Tuple[List[float], List[str]]:
+        """Enhanced VADER with better German word mappings."""
+        from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+        
+        analyzer = SentimentIntensityAnalyzer()
+        
+        german_sentiment_boost = {
+            'ausgezeichnet': 0.8, 'kompetent': 0.6, 'praktisch': 0.5,
+            'hilfreich': 0.6, 'schnell': 0.4, 'gut': 0.5,
+            'schlecht': -0.6, 'nicht zufrieden': -0.7
+        }
+        
+        scores = []
+        categories = []
+        
+        for text in texts:
+            base_score = analyzer.polarity_scores(text or "")['compound']
+            
+            text_lower = text.lower()
+            boost = 0
+            for word, value in german_sentiment_boost.items():
+                if word in text_lower:
+                    boost += value
+            
+            final_score = base_score + (boost * 0.3)
+            final_score = max(-1, min(1, final_score))
+            
+            scores.append(final_score)
+            
+            if final_score >= 0.1:
+                categories.append("positive")
+            elif final_score <= -0.1:
+                categories.append("negative")
+            else:
+                categories.append("neutral")
+        
+        return scores, categories
     
     def _vader_sentiment_analysis(self, texts: List[str]) -> Tuple[List[float], List[str]]:
         """Advanced sentiment analysis using VADER."""

@@ -547,7 +547,7 @@ class GermanFeedbackAnalyzer:
             # Verbs
             'haben', 'sein', 'werden', 'können', 'müssen', 'sollen', 'wollen', 'dürfen', 'hat', 'hatte',
             'wurde', 'wurden', 'würde', 'würden', 'kann', 'konnte', 'könnte', 'sollte', 'wollte', 'war',
-            'waren', 'wird', 'sind', 'bin', 'bist', 'wurde', 'worden',
+            'waren', 'wird', 'sind', 'bin', 'bist', 'worden',
             
             # Common English words (for mixed content)
             'this', 'the', 'and', 'is', 'was', 'are', 'were', 'been', 'have', 'has', 'had', 'will', 'would',
@@ -727,7 +727,7 @@ class GermanFeedbackAnalyzer:
         for text in texts:
             base_score = analyzer.polarity_scores(text or "")['compound']
             
-            text_lower = text.lower()
+            text_lower = (text or "").lower()
             boost = 0
             for word, value in german_sentiment_boost.items():
                 if word in text_lower:
@@ -747,8 +747,8 @@ class GermanFeedbackAnalyzer:
         
         return scores, categories
     
-    def _vader_sentiment_analysis(self, texts: List[str]) -> Tuple[List[float], List[str]]:
-        """Advanced sentiment analysis using VADER."""
+    def _basic_vader_sentiment_analysis(self, texts: List[str]) -> Tuple[List[float], List[str]]:
+        """Basic sentiment analysis using VADER."""
         from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
         
         analyzer = SentimentIntensityAnalyzer()
@@ -801,7 +801,7 @@ class GermanFeedbackAnalyzer:
             
             # Calculate normalized sentiment score
             total_words = len(words)
-            if total_words == 0:
+            if not total_words:
                 score = 0.0
                 category = 'neutral'
             else:
@@ -852,7 +852,7 @@ class GermanFeedbackAnalyzer:
             
             # 1. Top 10 German Clusters
             top_clusters = df[df['cluster_id'] != -1]['cluster_label'].value_counts().head(10)
-            if len(top_clusters) > 0:
+            if top_clusters:
                 y_pos = range(len(top_clusters))
                 axes[0,0].barh(y_pos, top_clusters.values, color='skyblue', edgecolor='navy', alpha=0.7)
                 axes[0,0].set_yticks(y_pos)
@@ -866,7 +866,7 @@ class GermanFeedbackAnalyzer:
             german_sentiment = {'positive': 'Positiv', 'neutral': 'Neutral', 'negative': 'Negativ'}
             colors = {'positive': '#2E8B57', 'neutral': '#708090', 'negative': '#DC143C'}
             
-            if len(sentiment_counts) > 0:
+            if sentiment_counts:
                 labels = [german_sentiment.get(cat, cat) for cat in sentiment_counts.index]
                 colors_list = [colors.get(cat, 'gray') for cat in sentiment_counts.index]
                 
@@ -881,7 +881,7 @@ class GermanFeedbackAnalyzer:
             
             # 3. Monthly Sentiment Trend
             monthly_sentiment = df.groupby('year_month')['sentiment_score'].mean()
-            if len(monthly_sentiment) > 0:
+            if monthly_sentiment:
                 axes[1,0].plot(monthly_sentiment.index, monthly_sentiment.values, 
                               marker='o', linewidth=2, markersize=6, color='#4169E1')
                 axes[1,0].set_title('Durchschnittliches Sentiment über Zeit', fontweight='bold')
@@ -896,12 +896,12 @@ class GermanFeedbackAnalyzer:
                 cluster_sentiment = df.groupby(['cluster_label', 'sentiment_category']).size().unstack(fill_value=0)
                 top_clusters_for_heatmap = df['cluster_label'].value_counts().head(8).index
                 
-                if len(cluster_sentiment) > 0:
+                if not cluster_sentiment.empty:
                     cluster_sentiment_top = cluster_sentiment.loc[
                         cluster_sentiment.index.intersection(top_clusters_for_heatmap)
                     ]
                     
-                    if len(cluster_sentiment_top) > 0:
+                    if not cluster_sentiment_top.empty:
                         sns.heatmap(cluster_sentiment_top, annot=True, fmt='d', 
                                    cmap='RdYlGn', ax=axes[1,1], cbar_kws={'label': 'Anzahl'})
                         axes[1,1].set_title('Sentiment nach Top Clustern', fontweight='bold')
@@ -974,7 +974,7 @@ class GermanFeedbackAnalyzer:
             self.df = self.load_data()
             self.df = self.clean_data(self.df)
             
-            if len(self.df) == 0:
+            if self.df.empty:
                 raise ValueError("No valid data remaining after cleaning")
             
             texts = self.df['nachricht'].tolist()

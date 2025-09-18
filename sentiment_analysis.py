@@ -52,7 +52,7 @@ class GermanFeedbackAnalyzer:
     fallbacks to ensure functionality even with minimal dependencies.
     """
     
-    def __init__(self, input_file: str = 'data/testdaten.xlsx'):
+    def __init__(self, input_file: str = 'data/kundenfeedback_beispiel.xlsx'):
         """
         Initialize the analyzer with configuration.
         
@@ -154,6 +154,7 @@ class GermanFeedbackAnalyzer:
         if missing_columns:
             # Try alternative column names - prioritize German content
             column_mapping = {
+                'feedback': 'message',    # New: feedback column maps to message
                 'message_de': 'message',  # Prioritize German messages
                 'nachricht': 'message',
                 'datum': 'date',

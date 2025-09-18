@@ -52,7 +52,7 @@ class GermanFeedbackAnalyzer:
     fallbacks to ensure functionality even with minimal dependencies.
     """
     
-    def __init__(self, input_file: str = 'data/kundenfeedback_beispiel.xlsx'):
+    def __init__(self, input_file: str = 'data/testdaten.xlsx'):
         """
         Initialize the analyzer with configuration.
         
